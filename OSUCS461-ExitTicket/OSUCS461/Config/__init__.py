@@ -11,7 +11,7 @@ FRONTEND = 'osucapstone.com'
 class BaseConfig:
     reload: bool = True
     use_colors: bool = True
-    port: int = os.getenv("PORT", "80")
+    port: int = os.getenv("PORT", 80)
 
 @dataclass
 class LocalConfig(BaseConfig):
