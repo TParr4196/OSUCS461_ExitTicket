@@ -1,5 +1,6 @@
 # this file is a template config file, the real configs are in __init__.py
 from dataclasses import dataclass
+import os
 
 env = "prod"
 API_VERSION = 'v1'
@@ -10,11 +11,11 @@ FRONTEND = 'osucapstone.com'
 class BaseConfig:
     reload: bool = True
     use_colors: bool = True
-    port: int = 8855
+    port: int = os.getenv("PORT", "80")
 
 @dataclass
 class LocalConfig(BaseConfig):
-    host: str = "127.0.0.1"
+    host: str = os.getenv("HOST", "0.0.0.0")
 
 @dataclass
 class StagingConfig(BaseConfig):
