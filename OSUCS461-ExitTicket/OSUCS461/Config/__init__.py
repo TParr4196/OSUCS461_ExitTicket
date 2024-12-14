@@ -48,7 +48,7 @@ MySQL = {
  		'db' : 'osucs461'
 	},
 	'prod' : {
-		'host' : 'xxxx',
+		'host' : '34.71.58.46',
 		'port' : 3306,
 		"user": "root",
         "passwd": "",
