@@ -23,7 +23,7 @@ class StagingConfig(BaseConfig):
 
 @dataclass
 class ProdConfig(BaseConfig):
-    host: str = "osucapstone.com"
+    host: str = os.getenv("HOST", "0.0.0.0")
 
 configs = {
     "local" : LocalConfig(),
