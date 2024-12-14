@@ -1,0 +1,1055 @@
+2024-12-13 05:12:46,501 - fastAPI - INFO - HP-API - local - Incoming request: GET http://127.0.0.1:8855/.
+2024-12-13 05:12:46,502 - fastAPI - INFO - HP-API - local - Handling function: redirect_to_ap
+2024-12-13 05:12:46,503 - fastAPI - INFO - HP-API - local - Completed request in 0.0007 seconds
+2024-12-13 05:12:46,503 - fastAPI - INFO - HP-API - local - Response status code: 307
+2024-12-13 05:13:53,265 - fastAPI - INFO - HP-API - local - Incoming request: GET http://127.0.0.1:8855/.
+2024-12-13 05:13:53,266 - fastAPI - INFO - HP-API - local - Handling function: redirect_to_ap
+2024-12-13 05:13:53,267 - fastAPI - INFO - HP-API - local - Completed request in 0.0005 seconds
+2024-12-13 05:13:53,267 - fastAPI - INFO - HP-API - local - Response status code: 307
+2024-12-13 05:17:55,794 - fastAPI - INFO - HP-API - local - Incoming request: GET http://127.0.0.1:8855/.
+2024-12-13 05:17:55,794 - fastAPI - INFO - HP-API - local - Handling function: unknown
+2024-12-13 05:17:55,796 - fastAPI - INFO - HP-API - local - Completed request in 0.0009 seconds
+2024-12-13 05:17:55,796 - fastAPI - INFO - HP-API - local - Response status code: 404
+2024-12-13 05:17:55,922 - fastAPI - INFO - HP-API - local - Incoming request: GET http://127.0.0.1:8855/favicon.ico.
+2024-12-13 05:17:55,922 - fastAPI - INFO - HP-API - local - Handling function: unknown
+2024-12-13 05:17:55,924 - fastAPI - INFO - HP-API - local - Completed request in 0.0012 seconds
+2024-12-13 05:17:55,924 - fastAPI - INFO - HP-API - local - Response status code: 404
+2024-12-13 05:50:43,042 - fastAPI - INFO - HP-API - local - Incoming request: GET http://127.0.0.1:8855/.
+2024-12-13 05:50:43,046 - fastAPI - INFO - HP-API - local - Handling function: unknown
+2024-12-13 05:50:43,048 - fastAPI - INFO - HP-API - local - Completed request in 0.0009 seconds
+2024-12-13 05:50:43,048 - fastAPI - INFO - HP-API - local - Response status code: 404
+2024-12-13 17:45:58,978 - fastAPI - INFO - HP-API - local - Incoming request: GET http://127.0.0.1:8855/.
+2024-12-13 17:45:58,979 - fastAPI - INFO - HP-API - local - Handling function: unknown
+2024-12-13 17:45:58,981 - fastAPI - INFO - HP-API - local - Completed request in 0.0020 seconds
+2024-12-13 17:45:58,981 - fastAPI - INFO - HP-API - local - Response status code: 404
+2024-12-13 17:46:00,138 - fastAPI - INFO - HP-API - local - Incoming request: GET http://127.0.0.1:8855/.
+2024-12-13 17:46:00,138 - fastAPI - INFO - HP-API - local - Handling function: unknown
+2024-12-13 17:46:00,142 - fastAPI - INFO - HP-API - local - Completed request in 0.0026 seconds
+2024-12-13 17:46:00,142 - fastAPI - INFO - HP-API - local - Response status code: 404
+2024-12-13 17:46:01,238 - fastAPI - INFO - HP-API - local - Incoming request: GET http://127.0.0.1:8855/.
+2024-12-13 17:46:01,238 - fastAPI - INFO - HP-API - local - Handling function: unknown
+2024-12-13 17:46:01,239 - fastAPI - INFO - HP-API - local - Completed request in 0.0006 seconds
+2024-12-13 17:46:01,239 - fastAPI - INFO - HP-API - local - Response status code: 404
+2024-12-13 17:51:50,429 - fastAPI - INFO - HP-API - local - Incoming request: GET http://127.0.0.1:8855/docs.
+2024-12-13 17:51:50,431 - fastAPI - INFO - HP-API - local - Handling function: swagger_ui_html
+2024-12-13 17:51:50,437 - fastAPI - INFO - HP-API - local - Completed request in 0.0057 seconds
+2024-12-13 17:51:50,438 - fastAPI - INFO - HP-API - local - Response status code: 200
+2024-12-13 17:51:51,301 - fastAPI - INFO - HP-API - local - Incoming request: GET http://127.0.0.1:8855/openapi.json.
+2024-12-13 17:51:51,301 - fastAPI - INFO - HP-API - local - Handling function: openapi
+2024-12-13 17:51:51,302 - fastAPI - INFO - HP-API - local - Completed request in 0.0012 seconds
+2024-12-13 17:51:51,303 - fastAPI - INFO - HP-API - local - Response status code: 200
+2024-12-13 17:53:56,486 - fastAPI - INFO - HP-API - local - Incoming request: GET http://127.0.0.1:8855/.
+2024-12-13 17:53:56,486 - fastAPI - INFO - HP-API - local - Handling function: unknown
+2024-12-13 17:53:56,487 - fastAPI - INFO - HP-API - local - Completed request in 0.0005 seconds
+2024-12-13 17:53:56,487 - fastAPI - INFO - HP-API - local - Response status code: 404
+2024-12-13 19:06:23,181 - fastAPI - INFO - HP-API - local - Incoming request: GET http://127.0.0.1:8855/.
+2024-12-13 19:06:23,182 - fastAPI - INFO - HP-API - local - Handling function: unknown
+2024-12-13 19:06:23,183 - fastAPI - INFO - HP-API - local - Completed request in 0.0005 seconds
+2024-12-13 19:06:23,183 - fastAPI - INFO - HP-API - local - Response status code: 404
+2024-12-13 19:06:23,254 - fastAPI - INFO - HP-API - local - Incoming request: GET http://127.0.0.1:8855/favicon.ico.
+2024-12-13 19:06:23,254 - fastAPI - INFO - HP-API - local - Handling function: unknown
+2024-12-13 19:06:23,254 - fastAPI - INFO - HP-API - local - Completed request in 0.0003 seconds
+2024-12-13 19:06:23,254 - fastAPI - INFO - HP-API - local - Response status code: 404
+2024-12-13 19:16:34,628 - fastAPI - INFO - HP-API - local - Incoming request: GET http://127.0.0.1:8855/.
+2024-12-13 19:16:34,628 - fastAPI - INFO - HP-API - local - Handling function: unknown
+2024-12-13 19:16:34,631 - fastAPI - INFO - HP-API - local - Completed request in 0.0023 seconds
+2024-12-13 19:16:34,632 - fastAPI - INFO - HP-API - local - Response status code: 404
+2024-12-13 19:16:35,911 - fastAPI - INFO - HP-API - local - Incoming request: GET http://127.0.0.1:8855/.
+2024-12-13 19:16:35,911 - fastAPI - INFO - HP-API - local - Handling function: unknown
+2024-12-13 19:16:35,911 - fastAPI - INFO - HP-API - local - Completed request in 0.0003 seconds
+2024-12-13 19:16:35,912 - fastAPI - INFO - HP-API - local - Response status code: 404
+2024-12-13 19:16:36,593 - fastAPI - INFO - HP-API - local - Incoming request: GET http://127.0.0.1:8855/.
+2024-12-13 19:16:36,594 - fastAPI - INFO - HP-API - local - Handling function: unknown
+2024-12-13 19:16:36,594 - fastAPI - INFO - HP-API - local - Completed request in 0.0003 seconds
+2024-12-13 19:16:36,594 - fastAPI - INFO - HP-API - local - Response status code: 404
+2024-12-13 19:16:37,062 - fastAPI - INFO - HP-API - local - Incoming request: GET http://127.0.0.1:8855/.
+2024-12-13 19:16:37,062 - fastAPI - INFO - HP-API - local - Handling function: unknown
+2024-12-13 19:16:37,063 - fastAPI - INFO - HP-API - local - Completed request in 0.0003 seconds
+2024-12-13 19:16:37,063 - fastAPI - INFO - HP-API - local - Response status code: 404
+2024-12-13 19:16:37,449 - fastAPI - INFO - HP-API - local - Incoming request: GET http://127.0.0.1:8855/.
+2024-12-13 19:16:37,449 - fastAPI - INFO - HP-API - local - Handling function: unknown
+2024-12-13 19:16:37,450 - fastAPI - INFO - HP-API - local - Completed request in 0.0003 seconds
+2024-12-13 19:16:37,450 - fastAPI - INFO - HP-API - local - Response status code: 404
+2024-12-13 19:16:38,376 - fastAPI - INFO - HP-API - local - Incoming request: GET http://127.0.0.1:8855/.
+2024-12-13 19:16:38,376 - fastAPI - INFO - HP-API - local - Handling function: unknown
+2024-12-13 19:16:38,377 - fastAPI - INFO - HP-API - local - Completed request in 0.0005 seconds
+2024-12-13 19:16:38,377 - fastAPI - INFO - HP-API - local - Response status code: 404
+2024-12-13 19:26:27,994 - fastAPI - INFO - HP-API - local - Incoming request: GET http://127.0.0.1:8855/.
+2024-12-13 19:26:27,994 - fastAPI - INFO - HP-API - local - Handling function: unknown
+2024-12-13 19:26:27,995 - fastAPI - INFO - HP-API - local - Completed request in 0.0006 seconds
+2024-12-13 19:26:27,995 - fastAPI - INFO - HP-API - local - Response status code: 404
+2024-12-13 19:26:29,395 - fastAPI - INFO - HP-API - local - Incoming request: GET http://127.0.0.1:8855/.
+2024-12-13 19:26:29,396 - fastAPI - INFO - HP-API - local - Handling function: unknown
+2024-12-13 19:26:29,397 - fastAPI - INFO - HP-API - local - Completed request in 0.0005 seconds
+2024-12-13 19:26:29,397 - fastAPI - INFO - HP-API - local - Response status code: 404
+2024-12-13 19:26:38,327 - fastAPI - INFO - HP-API - local - Incoming request: GET http://127.0.0.1:8855/.
+2024-12-13 19:26:38,327 - fastAPI - INFO - HP-API - local - Handling function: unknown
+2024-12-13 19:26:38,328 - fastAPI - INFO - HP-API - local - Completed request in 0.0004 seconds
+2024-12-13 19:26:38,328 - fastAPI - INFO - HP-API - local - Response status code: 404
+2024-12-13 19:28:11,611 - fastAPI - INFO - HP-API - local - Incoming request: GET http://127.0.0.1:8855/.
+2024-12-13 19:28:11,611 - fastAPI - INFO - HP-API - local - Handling function: unknown
+2024-12-13 19:28:11,612 - fastAPI - INFO - HP-API - local - Completed request in 0.0005 seconds
+2024-12-13 19:28:11,612 - fastAPI - INFO - HP-API - local - Response status code: 404
+2024-12-13 19:28:13,941 - fastAPI - INFO - HP-API - local - Incoming request: GET http://127.0.0.1:8855/.
+2024-12-13 19:28:13,941 - fastAPI - INFO - HP-API - local - Handling function: unknown
+2024-12-13 19:28:13,942 - fastAPI - INFO - HP-API - local - Completed request in 0.0006 seconds
+2024-12-13 19:28:13,942 - fastAPI - INFO - HP-API - local - Response status code: 404
+2024-12-13 19:28:34,799 - fastAPI - INFO - HP-API - local - Incoming request: GET http://127.0.0.1:8855/.
+2024-12-13 19:28:34,800 - fastAPI - INFO - HP-API - local - Handling function: redirect_to_ap
+2024-12-13 19:28:34,802 - fastAPI - INFO - HP-API - local - Completed request in 0.0020 seconds
+2024-12-13 19:28:34,804 - fastAPI - INFO - HP-API - local - Response status code: 307
+2024-12-13 19:29:21,683 - fastAPI - INFO - HP-API - local - Incoming request: GET http://127.0.0.1:8855/user.
+2024-12-13 19:29:21,683 - fastAPI - INFO - HP-API - local - Handling function: unknown
+2024-12-13 19:29:21,685 - fastAPI - INFO - HP-API - local - Completed request in 0.0014 seconds
+2024-12-13 19:29:21,686 - fastAPI - INFO - HP-API - local - Response status code: 404
+2024-12-13 19:29:27,079 - fastAPI - INFO - HP-API - local - Incoming request: GET http://127.0.0.1:8855/user.
+2024-12-13 19:29:27,080 - fastAPI - INFO - HP-API - local - Handling function: redirect_to_ap
+2024-12-13 19:29:27,080 - fastAPI - INFO - HP-API - local - Completed request in 0.0006 seconds
+2024-12-13 19:29:27,081 - fastAPI - INFO - HP-API - local - Response status code: 307
+2024-12-13 19:35:51,193 - fastAPI - INFO - HP-API - local - Incoming request: GET http://127.0.0.1:8855/user.
+2024-12-13 19:35:51,193 - fastAPI - INFO - HP-API - local - Handling function: redirect_to_ap
+2024-12-13 19:35:51,195 - fastAPI - INFO - HP-API - local - Completed request in 0.0017 seconds
+2024-12-13 19:35:51,196 - fastAPI - INFO - HP-API - local - Response status code: 200
+2024-12-13 21:46:28,328 - fastAPI - INFO - HP-API - local - Incoming request: GET http://127.0.0.1:8855/user.
+2024-12-13 21:46:28,329 - fastAPI - INFO - HP-API - local - Handling function: redirect_to_ap
+2024-12-13 21:46:28,330 - fastAPI - INFO - HP-API - local - Completed request in 0.0007 seconds
+2024-12-13 21:46:28,330 - fastAPI - INFO - HP-API - local - Response status code: 200
+2024-12-13 21:46:28,390 - fastAPI - INFO - HP-API - local - Incoming request: GET http://127.0.0.1:8855/favicon.ico.
+2024-12-13 21:46:28,390 - fastAPI - INFO - HP-API - local - Handling function: unknown
+2024-12-13 21:46:28,391 - fastAPI - INFO - HP-API - local - Completed request in 0.0004 seconds
+2024-12-13 21:46:28,391 - fastAPI - INFO - HP-API - local - Response status code: 404
+2024-12-13 21:46:29,370 - fastAPI - INFO - HP-API - local - Incoming request: GET http://127.0.0.1:8855/user.
+2024-12-13 21:46:29,371 - fastAPI - INFO - HP-API - local - Handling function: redirect_to_ap
+2024-12-13 21:46:29,372 - fastAPI - INFO - HP-API - local - Completed request in 0.0006 seconds
+2024-12-13 21:46:29,372 - fastAPI - INFO - HP-API - local - Response status code: 200
+2024-12-13 21:46:30,476 - fastAPI - INFO - HP-API - local - Incoming request: GET http://127.0.0.1:8855/user.
+2024-12-13 21:46:30,476 - fastAPI - INFO - HP-API - local - Handling function: redirect_to_ap
+2024-12-13 21:46:30,477 - fastAPI - INFO - HP-API - local - Completed request in 0.0005 seconds
+2024-12-13 21:46:30,478 - fastAPI - INFO - HP-API - local - Response status code: 200
+2024-12-13 21:49:42,010 - fastAPI - INFO - HP-API - local - Incoming request: GET http://127.0.0.1:8855/user.
+2024-12-13 21:49:42,010 - fastAPI - INFO - HP-API - local - Handling function: redirect_to_ap
+2024-12-13 21:49:42,011 - fastAPI - INFO - HP-API - local - Completed request in 0.0005 seconds
+2024-12-13 21:49:42,011 - fastAPI - INFO - HP-API - local - Response status code: 200
+2024-12-13 21:50:16,386 - fastAPI - INFO - HP-API - local - Incoming request: GET http://127.0.0.1:8855/users.
+2024-12-13 21:50:16,387 - fastAPI - INFO - HP-API - local - Handling function: get_all_users
+2024-12-13 21:50:16,389 - fastAPI - INFO - HP-API - local - Completed request in 0.0019 seconds
+2024-12-13 21:50:16,390 - fastAPI - INFO - HP-API - local - Response status code: 200
+2024-12-13 21:50:18,832 - fastAPI - INFO - HP-API - local - Incoming request: GET http://127.0.0.1:8855/users.
+2024-12-13 21:50:18,832 - fastAPI - INFO - HP-API - local - Handling function: get_all_users
+2024-12-13 21:50:18,832 - fastAPI - INFO - HP-API - local - Completed request in 0.0004 seconds
+2024-12-13 21:50:18,833 - fastAPI - INFO - HP-API - local - Response status code: 200
+2024-12-13 21:50:27,005 - fastAPI - INFO - HP-API - local - Incoming request: GET http://127.0.0.1:8855/users.
+2024-12-13 21:50:27,005 - fastAPI - INFO - HP-API - local - Handling function: get_all_users
+2024-12-13 21:50:27,006 - fastAPI - INFO - HP-API - local - Completed request in 0.0005 seconds
+2024-12-13 21:50:27,006 - fastAPI - INFO - HP-API - local - Response status code: 200
+2024-12-13 21:50:39,909 - fastAPI - INFO - HP-API - local - Incoming request: GET http://127.0.0.1:8855/users/124124.
+2024-12-13 21:50:39,910 - fastAPI - INFO - HP-API - local - Handling function: unknown
+2024-12-13 21:50:39,910 - fastAPI - INFO - HP-API - local - Completed request in 0.0004 seconds
+2024-12-13 21:50:39,910 - fastAPI - INFO - HP-API - local - Response status code: 404
+2024-12-13 21:52:00,755 - fastAPI - INFO - HP-API - local - Incoming request: GET http://127.0.0.1:8855/.
+2024-12-13 21:52:00,755 - fastAPI - INFO - HP-API - local - Handling function: redirect
+2024-12-13 21:52:00,757 - fastAPI - INFO - HP-API - local - Completed request in 0.0011 seconds
+2024-12-13 21:52:00,758 - fastAPI - INFO - HP-API - local - Response status code: 307
+2024-12-13 21:52:00,767 - fastAPI - INFO - HP-API - local - Incoming request: GET http://127.0.0.1:8855/users.
+2024-12-13 21:52:00,768 - fastAPI - INFO - HP-API - local - Handling function: get_all_users
+2024-12-13 21:52:00,768 - fastAPI - INFO - HP-API - local - Completed request in 0.0002 seconds
+2024-12-13 21:52:00,768 - fastAPI - INFO - HP-API - local - Response status code: 200
+2024-12-13 21:52:03,812 - fastAPI - INFO - HP-API - local - Incoming request: GET http://127.0.0.1:8855/user.
+2024-12-13 21:52:03,812 - fastAPI - INFO - HP-API - local - Handling function: unknown
+2024-12-13 21:52:03,813 - fastAPI - INFO - HP-API - local - Completed request in 0.0004 seconds
+2024-12-13 21:52:03,813 - fastAPI - INFO - HP-API - local - Response status code: 404
+2024-12-13 21:52:07,188 - fastAPI - INFO - HP-API - local - Incoming request: GET http://127.0.0.1:8855/users.
+2024-12-13 21:52:07,188 - fastAPI - INFO - HP-API - local - Handling function: get_all_users
+2024-12-13 21:52:07,189 - fastAPI - INFO - HP-API - local - Completed request in 0.0004 seconds
+2024-12-13 21:52:07,189 - fastAPI - INFO - HP-API - local - Response status code: 200
+2024-12-13 21:52:37,610 - fastAPI - INFO - HP-API - local - Incoming request: GET http://127.0.0.1:8855/users.
+2024-12-13 21:52:37,611 - fastAPI - INFO - HP-API - local - Handling function: get_all_users
+2024-12-13 21:52:37,611 - fastAPI - INFO - HP-API - local - Completed request in 0.0002 seconds
+2024-12-13 21:52:37,611 - fastAPI - INFO - HP-API - local - Response status code: 200
+2024-12-13 21:53:25,868 - fastAPI - INFO - HP-API - local - Incoming request: GET http://127.0.0.1:8855/users/234134.
+2024-12-13 21:53:25,868 - fastAPI - INFO - HP-API - local - Handling function: unknown
+2024-12-13 21:53:25,868 - fastAPI - INFO - HP-API - local - Completed request in 0.0004 seconds
+2024-12-13 21:53:25,869 - fastAPI - INFO - HP-API - local - Response status code: 404
+2024-12-13 21:54:14,996 - fastAPI - INFO - HP-API - local - Incoming request: GET http://127.0.0.1:8855/users/234134.
+2024-12-13 21:54:14,996 - fastAPI - INFO - HP-API - local - Handling function: unknown
+2024-12-13 21:54:14,997 - fastAPI - INFO - HP-API - local - Completed request in 0.0006 seconds
+2024-12-13 21:54:14,997 - fastAPI - INFO - HP-API - local - Response status code: 404
+2024-12-13 21:54:16,291 - fastAPI - INFO - HP-API - local - Incoming request: GET http://127.0.0.1:8855/users/234134.
+2024-12-13 21:54:16,292 - fastAPI - INFO - HP-API - local - Handling function: unknown
+2024-12-13 21:54:16,292 - fastAPI - INFO - HP-API - local - Completed request in 0.0003 seconds
+2024-12-13 21:54:16,292 - fastAPI - INFO - HP-API - local - Response status code: 404
+2024-12-13 21:54:20,554 - fastAPI - INFO - HP-API - local - Incoming request: GET http://127.0.0.1:8855/users/.
+2024-12-13 21:54:20,554 - fastAPI - INFO - HP-API - local - Handling function: get_user
+2024-12-13 21:54:20,555 - fastAPI - INFO - HP-API - local - Completed request in 0.0005 seconds
+2024-12-13 21:54:20,556 - fastAPI - INFO - HP-API - local - Response status code: 200
+2024-12-13 21:56:33,344 - fastAPI - INFO - HP-API - local - Incoming request: GET http://127.0.0.1:8855/users/.
+2024-12-13 21:56:33,344 - fastAPI - INFO - HP-API - local - Handling function: unknown
+2024-12-13 21:56:33,346 - fastAPI - INFO - HP-API - local - Completed request in 0.0015 seconds
+2024-12-13 21:56:33,347 - fastAPI - INFO - HP-API - local - Response status code: 307
+2024-12-13 21:56:33,357 - fastAPI - INFO - HP-API - local - Incoming request: GET http://127.0.0.1:8855/users.
+2024-12-13 21:56:33,358 - fastAPI - INFO - HP-API - local - Handling function: get_all_users
+2024-12-13 21:56:33,358 - fastAPI - INFO - HP-API - local - Completed request in 0.0003 seconds
+2024-12-13 21:56:33,358 - fastAPI - INFO - HP-API - local - Response status code: 200
+2024-12-13 21:56:34,411 - fastAPI - INFO - HP-API - local - Incoming request: GET http://127.0.0.1:8855/users.
+2024-12-13 21:56:34,411 - fastAPI - INFO - HP-API - local - Handling function: get_all_users
+2024-12-13 21:56:34,411 - fastAPI - INFO - HP-API - local - Completed request in 0.0005 seconds
+2024-12-13 21:56:34,412 - fastAPI - INFO - HP-API - local - Response status code: 200
+2024-12-13 21:56:43,568 - fastAPI - INFO - HP-API - local - Incoming request: GET http://127.0.0.1:8855/.
+2024-12-13 21:56:43,568 - fastAPI - INFO - HP-API - local - Handling function: redirect
+2024-12-13 21:56:43,568 - fastAPI - INFO - HP-API - local - Completed request in 0.0003 seconds
+2024-12-13 21:56:43,569 - fastAPI - INFO - HP-API - local - Response status code: 307
+2024-12-13 21:56:43,580 - fastAPI - INFO - HP-API - local - Incoming request: GET http://127.0.0.1:8855/users.
+2024-12-13 21:56:43,581 - fastAPI - INFO - HP-API - local - Handling function: get_all_users
+2024-12-13 21:56:43,581 - fastAPI - INFO - HP-API - local - Completed request in 0.0004 seconds
+2024-12-13 21:56:43,582 - fastAPI - INFO - HP-API - local - Response status code: 200
+2024-12-13 21:56:46,243 - fastAPI - INFO - HP-API - local - Incoming request: GET http://127.0.0.1:8855/usersasdgkls.
+2024-12-13 21:56:46,243 - fastAPI - INFO - HP-API - local - Handling function: unknown
+2024-12-13 21:56:46,243 - fastAPI - INFO - HP-API - local - Completed request in 0.0003 seconds
+2024-12-13 21:56:46,244 - fastAPI - INFO - HP-API - local - Response status code: 404
+2024-12-13 21:57:35,994 - fastAPI - INFO - HP-API - local - Incoming request: GET http://127.0.0.1:8855/usersasdgkls.
+2024-12-13 21:57:35,995 - fastAPI - INFO - HP-API - local - Handling function: unknown
+2024-12-13 21:57:35,995 - fastAPI - INFO - HP-API - local - Completed request in 0.0004 seconds
+2024-12-13 21:57:35,995 - fastAPI - INFO - HP-API - local - Response status code: 404
+2024-12-13 21:57:36,637 - fastAPI - INFO - HP-API - local - Incoming request: GET http://127.0.0.1:8855/usersasdgkls.
+2024-12-13 21:57:36,637 - fastAPI - INFO - HP-API - local - Handling function: unknown
+2024-12-13 21:57:36,638 - fastAPI - INFO - HP-API - local - Completed request in 0.0002 seconds
+2024-12-13 21:57:36,638 - fastAPI - INFO - HP-API - local - Response status code: 404
+2024-12-13 21:57:36,807 - fastAPI - INFO - HP-API - local - Incoming request: GET http://127.0.0.1:8855/usersasdgkls.
+2024-12-13 21:57:36,807 - fastAPI - INFO - HP-API - local - Handling function: unknown
+2024-12-13 21:57:36,808 - fastAPI - INFO - HP-API - local - Completed request in 0.0002 seconds
+2024-12-13 21:57:36,808 - fastAPI - INFO - HP-API - local - Response status code: 404
+2024-12-13 21:57:37,627 - fastAPI - INFO - HP-API - local - Incoming request: GET http://127.0.0.1:8855/usersasdgkls.
+2024-12-13 21:57:37,627 - fastAPI - INFO - HP-API - local - Handling function: unknown
+2024-12-13 21:57:37,628 - fastAPI - INFO - HP-API - local - Completed request in 0.0003 seconds
+2024-12-13 21:57:37,628 - fastAPI - INFO - HP-API - local - Response status code: 404
+2024-12-13 22:00:57,012 - fastAPI - INFO - HP-API - local - Incoming request: GET http://127.0.0.1:8855/usersasdgkls.
+2024-12-13 22:00:57,012 - fastAPI - INFO - HP-API - local - Handling function: unknown
+2024-12-13 22:00:57,013 - fastAPI - INFO - HP-API - local - Completed request in 0.0011 seconds
+2024-12-13 22:00:57,014 - fastAPI - INFO - HP-API - local - Response status code: 404
+2024-12-13 22:00:58,824 - fastAPI - INFO - HP-API - local - Incoming request: GET http://127.0.0.1:8855/usersasdgkls.
+2024-12-13 22:00:58,824 - fastAPI - INFO - HP-API - local - Handling function: unknown
+2024-12-13 22:00:58,825 - fastAPI - INFO - HP-API - local - Completed request in 0.0008 seconds
+2024-12-13 22:00:58,826 - fastAPI - INFO - HP-API - local - Response status code: 404
+2024-12-13 22:01:04,935 - fastAPI - INFO - HP-API - local - Incoming request: GET http://127.0.0.1:8855/users/asdgkls.
+2024-12-13 22:01:04,935 - fastAPI - INFO - HP-API - local - Handling function: get_user
+2024-12-13 22:01:04,936 - fastAPI - INFO - HP-API - local - Completed request in 0.0004 seconds
+2024-12-13 22:01:04,936 - fastAPI - INFO - HP-API - local - Response status code: 200
+2024-12-13 22:02:13,520 - fastAPI - INFO - HP-API - local - Incoming request: GET http://127.0.0.1:8855/users/asdgkls.
+2024-12-13 22:02:13,520 - fastAPI - INFO - HP-API - local - Handling function: get_user
+2024-12-13 22:02:13,521 - fastAPI - INFO - HP-API - local - Completed request in 0.0009 seconds
+2024-12-13 22:02:13,522 - fastAPI - INFO - HP-API - local - Response status code: 200
+2024-12-13 22:02:16,012 - fastAPI - INFO - HP-API - local - Incoming request: GET http://127.0.0.1:8855/users/asdgasdglk.
+2024-12-13 22:02:16,012 - fastAPI - INFO - HP-API - local - Handling function: get_user
+2024-12-13 22:02:16,012 - fastAPI - INFO - HP-API - local - Completed request in 0.0004 seconds
+2024-12-13 22:02:16,012 - fastAPI - INFO - HP-API - local - Response status code: 200
+2024-12-13 22:42:32,246 - fastAPI - INFO - HP-API - local - Incoming request: GET http://127.0.0.1:8855/docs.
+2024-12-13 22:42:32,246 - fastAPI - INFO - HP-API - local - Handling function: swagger_ui_html
+2024-12-13 22:42:32,248 - fastAPI - INFO - HP-API - local - Completed request in 0.0009 seconds
+2024-12-13 22:42:32,248 - fastAPI - INFO - HP-API - local - Response status code: 200
+2024-12-13 22:42:32,554 - fastAPI - INFO - HP-API - local - Incoming request: GET http://127.0.0.1:8855/openapi.json.
+2024-12-13 22:42:32,554 - fastAPI - INFO - HP-API - local - Handling function: openapi
+2024-12-13 22:42:32,569 - fastAPI - INFO - HP-API - local - Completed request in 0.0143 seconds
+2024-12-13 22:42:32,569 - fastAPI - INFO - HP-API - local - Response status code: 200
+2024-12-13 22:44:19,420 - fastAPI - INFO - HP-API - local - Incoming request: GET http://127.0.0.1:8855/docs.
+2024-12-13 22:44:19,420 - fastAPI - INFO - HP-API - local - Handling function: swagger_ui_html
+2024-12-13 22:44:19,420 - fastAPI - INFO - HP-API - local - Completed request in 0.0004 seconds
+2024-12-13 22:44:19,421 - fastAPI - INFO - HP-API - local - Response status code: 200
+2024-12-13 22:44:19,663 - fastAPI - INFO - HP-API - local - Incoming request: GET http://127.0.0.1:8855/openapi.json.
+2024-12-13 22:44:19,663 - fastAPI - INFO - HP-API - local - Handling function: openapi
+2024-12-13 22:44:19,674 - fastAPI - INFO - HP-API - local - Completed request in 0.0109 seconds
+2024-12-13 22:44:19,675 - fastAPI - INFO - HP-API - local - Response status code: 200
+2024-12-13 22:44:26,004 - fastAPI - INFO - HP-API - local - Incoming request: GET http://127.0.0.1:8855/docs.
+2024-12-13 22:44:26,004 - fastAPI - INFO - HP-API - local - Handling function: swagger_ui_html
+2024-12-13 22:44:26,005 - fastAPI - INFO - HP-API - local - Completed request in 0.0006 seconds
+2024-12-13 22:44:26,005 - fastAPI - INFO - HP-API - local - Response status code: 200
+2024-12-13 22:44:26,067 - fastAPI - INFO - HP-API - local - Incoming request: GET http://127.0.0.1:8855/openapi.json.
+2024-12-13 22:44:26,067 - fastAPI - INFO - HP-API - local - Handling function: openapi
+2024-12-13 22:44:26,079 - fastAPI - INFO - HP-API - local - Completed request in 0.0118 seconds
+2024-12-13 22:44:26,079 - fastAPI - INFO - HP-API - local - Response status code: 200
+2024-12-13 23:46:06,343 - fastAPI - INFO - HP-API - local - Incoming request: GET http://127.0.0.1:8855/.
+2024-12-13 23:46:06,346 - fastAPI - INFO - HP-API - local - Handling function: redirect
+2024-12-13 23:46:06,348 - fastAPI - INFO - HP-API - local - Completed request in 0.0010 seconds
+2024-12-13 23:46:06,348 - fastAPI - INFO - HP-API - local - Response status code: 307
+2024-12-13 23:46:06,361 - fastAPI - INFO - HP-API - local - Incoming request: GET http://127.0.0.1:8855/docs.
+2024-12-13 23:46:06,361 - fastAPI - INFO - HP-API - local - Handling function: swagger_ui_html
+2024-12-13 23:46:06,364 - fastAPI - INFO - HP-API - local - Completed request in 0.0022 seconds
+2024-12-13 23:46:06,364 - fastAPI - INFO - HP-API - local - Response status code: 200
+2024-12-13 23:46:06,534 - fastAPI - INFO - HP-API - local - Incoming request: GET http://127.0.0.1:8855/openapi.json.
+2024-12-13 23:46:06,534 - fastAPI - INFO - HP-API - local - Handling function: openapi
+2024-12-13 23:46:06,553 - fastAPI - INFO - HP-API - local - Completed request in 0.0189 seconds
+2024-12-13 23:46:06,553 - fastAPI - INFO - HP-API - local - Response status code: 200
+2024-12-13 23:46:19,383 - fastAPI - INFO - HP-API - local - Incoming request: POST http://127.0.0.1:8855/users.
+2024-12-13 23:46:19,388 - fastAPI - INFO - HP-API - local - Handling function: create_user
+2024-12-13 23:46:19,391 - fastAPI - ERROR - HP-API - local - module 'OSUCS461.Classes.User' has no attribute 'get'
+2024-12-13 23:46:19,392 - fastAPI - INFO - HP-API - local - Completed request in 0.0028 seconds
+2024-12-13 23:46:19,392 - fastAPI - INFO - HP-API - local - Response status code: 500
+2024-12-13 23:47:23,029 - fastAPI - INFO - HP-API - local - Incoming request: GET http://127.0.0.1:8855/docs.
+2024-12-13 23:47:23,029 - fastAPI - INFO - HP-API - local - Handling function: swagger_ui_html
+2024-12-13 23:47:23,030 - fastAPI - INFO - HP-API - local - Completed request in 0.0010 seconds
+2024-12-13 23:47:23,030 - fastAPI - INFO - HP-API - local - Response status code: 200
+2024-12-13 23:47:23,108 - fastAPI - INFO - HP-API - local - Incoming request: GET http://127.0.0.1:8855/openapi.json.
+2024-12-13 23:47:23,108 - fastAPI - INFO - HP-API - local - Handling function: openapi
+2024-12-13 23:47:23,119 - fastAPI - INFO - HP-API - local - Completed request in 0.0109 seconds
+2024-12-13 23:47:23,120 - fastAPI - INFO - HP-API - local - Response status code: 200
+2024-12-13 23:47:32,478 - fastAPI - INFO - HP-API - local - Incoming request: POST http://127.0.0.1:8855/users.
+2024-12-13 23:47:32,478 - fastAPI - INFO - HP-API - local - Handling function: create_user
+2024-12-13 23:47:32,480 - fastAPI - ERROR - HP-API - local - module 'OSUCS461.Classes.User' has no attribute 'create'
+2024-12-13 23:47:32,481 - fastAPI - INFO - HP-API - local - Completed request in 0.0024 seconds
+2024-12-13 23:47:32,481 - fastAPI - INFO - HP-API - local - Response status code: 500
+2024-12-13 23:49:16,821 - fastAPI - INFO - HP-API - local - Incoming request: GET http://127.0.0.1:8855/docs.
+2024-12-13 23:49:16,822 - fastAPI - INFO - HP-API - local - Handling function: swagger_ui_html
+2024-12-13 23:49:16,823 - fastAPI - INFO - HP-API - local - Completed request in 0.0006 seconds
+2024-12-13 23:49:16,823 - fastAPI - INFO - HP-API - local - Response status code: 200
+2024-12-13 23:49:16,907 - fastAPI - INFO - HP-API - local - Incoming request: GET http://127.0.0.1:8855/openapi.json.
+2024-12-13 23:49:16,908 - fastAPI - INFO - HP-API - local - Handling function: openapi
+2024-12-13 23:49:16,919 - fastAPI - INFO - HP-API - local - Completed request in 0.0117 seconds
+2024-12-13 23:49:16,920 - fastAPI - INFO - HP-API - local - Response status code: 200
+2024-12-13 23:49:23,629 - fastAPI - INFO - HP-API - local - Incoming request: POST http://127.0.0.1:8855/users.
+2024-12-13 23:49:23,630 - fastAPI - INFO - HP-API - local - Handling function: create_user
+2024-12-13 23:49:23,631 - fastAPI - ERROR - HP-API - local - 'MySQL' object has no attribute 'add'
+2024-12-13 23:49:23,632 - fastAPI - INFO - HP-API - local - Completed request in 0.0015 seconds
+2024-12-13 23:49:23,632 - fastAPI - INFO - HP-API - local - Response status code: 500
+2024-12-13 23:49:49,605 - fastAPI - INFO - HP-API - local - Incoming request: POST http://127.0.0.1:8855/users.
+2024-12-13 23:49:49,606 - fastAPI - INFO - HP-API - local - Handling function: create_user
+2024-12-13 23:49:49,607 - fastAPI - ERROR - HP-API - local - 'MySQL' object has no attribute 'add'
+2024-12-13 23:49:49,608 - fastAPI - INFO - HP-API - local - Completed request in 0.0016 seconds
+2024-12-13 23:49:49,608 - fastAPI - INFO - HP-API - local - Response status code: 500
+2024-12-13 23:49:53,406 - fastAPI - INFO - HP-API - local - Incoming request: POST http://127.0.0.1:8855/users.
+2024-12-13 23:49:53,406 - fastAPI - INFO - HP-API - local - Handling function: create_user
+2024-12-13 23:49:53,407 - fastAPI - ERROR - HP-API - local - 'MySQL' object has no attribute 'add'
+2024-12-13 23:49:53,407 - fastAPI - INFO - HP-API - local - Completed request in 0.0013 seconds
+2024-12-13 23:49:53,408 - fastAPI - INFO - HP-API - local - Response status code: 500
+2024-12-13 23:50:02,844 - fastAPI - INFO - HP-API - local - Incoming request: POST http://127.0.0.1:8855/users.
+2024-12-13 23:50:02,844 - fastAPI - INFO - HP-API - local - Handling function: create_user
+2024-12-13 23:50:02,845 - fastAPI - ERROR - HP-API - local - 'MySQL' object has no attribute 'add'
+2024-12-13 23:50:02,846 - fastAPI - INFO - HP-API - local - Completed request in 0.0018 seconds
+2024-12-13 23:50:02,846 - fastAPI - INFO - HP-API - local - Response status code: 500
+2024-12-13 23:50:14,627 - fastAPI - INFO - HP-API - local - Incoming request: GET http://127.0.0.1:8855/docs.
+2024-12-13 23:50:14,627 - fastAPI - INFO - HP-API - local - Handling function: swagger_ui_html
+2024-12-13 23:50:14,628 - fastAPI - INFO - HP-API - local - Completed request in 0.0004 seconds
+2024-12-13 23:50:14,628 - fastAPI - INFO - HP-API - local - Response status code: 200
+2024-12-13 23:50:14,739 - fastAPI - INFO - HP-API - local - Incoming request: GET http://127.0.0.1:8855/openapi.json.
+2024-12-13 23:50:14,740 - fastAPI - INFO - HP-API - local - Handling function: openapi
+2024-12-13 23:50:14,741 - fastAPI - INFO - HP-API - local - Completed request in 0.0008 seconds
+2024-12-13 23:50:14,741 - fastAPI - INFO - HP-API - local - Response status code: 200
+2024-12-13 23:50:23,029 - fastAPI - INFO - HP-API - local - Incoming request: GET http://127.0.0.1:8855/users.
+2024-12-13 23:50:23,029 - fastAPI - INFO - HP-API - local - Handling function: get_all_users
+2024-12-13 23:50:23,030 - fastAPI - INFO - HP-API - local - Completed request in 0.0003 seconds
+2024-12-13 23:50:23,030 - fastAPI - INFO - HP-API - local - Response status code: 200
+2024-12-13 23:51:42,482 - fastAPI - INFO - HP-API - local - Incoming request: GET http://127.0.0.1:8855/docs.
+2024-12-13 23:51:42,482 - fastAPI - INFO - HP-API - local - Handling function: swagger_ui_html
+2024-12-13 23:51:42,483 - fastAPI - INFO - HP-API - local - Completed request in 0.0007 seconds
+2024-12-13 23:51:42,483 - fastAPI - INFO - HP-API - local - Response status code: 200
+2024-12-13 23:51:42,567 - fastAPI - INFO - HP-API - local - Incoming request: GET http://127.0.0.1:8855/openapi.json.
+2024-12-13 23:51:42,568 - fastAPI - INFO - HP-API - local - Handling function: openapi
+2024-12-13 23:51:42,574 - fastAPI - INFO - HP-API - local - Completed request in 0.0062 seconds
+2024-12-13 23:51:42,574 - fastAPI - INFO - HP-API - local - Response status code: 200
+2024-12-13 23:51:52,790 - fastAPI - INFO - HP-API - local - Incoming request: GET http://127.0.0.1:8855/users.
+2024-12-13 23:51:52,790 - fastAPI - INFO - HP-API - local - Handling function: get_all_users
+2024-12-13 23:51:52,790 - fastAPI - INFO - HP-API - local - Completed request in 0.0004 seconds
+2024-12-13 23:51:52,791 - fastAPI - INFO - HP-API - local - Response status code: 200
+2024-12-13 23:54:59,230 - fastAPI - INFO - HP-API - local - Incoming request: GET http://127.0.0.1:8855/docs.
+2024-12-13 23:54:59,232 - fastAPI - INFO - HP-API - local - Handling function: swagger_ui_html
+2024-12-13 23:54:59,232 - fastAPI - INFO - HP-API - local - Completed request in 0.0006 seconds
+2024-12-13 23:54:59,232 - fastAPI - INFO - HP-API - local - Response status code: 200
+2024-12-13 23:54:59,338 - fastAPI - INFO - HP-API - local - Incoming request: GET http://127.0.0.1:8855/openapi.json.
+2024-12-13 23:54:59,339 - fastAPI - INFO - HP-API - local - Handling function: openapi
+2024-12-13 23:54:59,349 - fastAPI - INFO - HP-API - local - Completed request in 0.0101 seconds
+2024-12-13 23:54:59,349 - fastAPI - INFO - HP-API - local - Response status code: 200
+2024-12-13 23:55:03,475 - fastAPI - INFO - HP-API - local - Incoming request: GET http://127.0.0.1:8855/users.
+2024-12-13 23:55:03,475 - fastAPI - INFO - HP-API - local - Handling function: get_all_users
+2024-12-13 23:55:03,484 - fastAPI - INFO - HP-API - local - Completed request in 0.0084 seconds
+2024-12-13 23:55:03,485 - fastAPI - INFO - HP-API - local - Response status code: 200
+2024-12-13 23:55:21,223 - fastAPI - INFO - HP-API - local - Incoming request: POST http://127.0.0.1:8855/users.
+2024-12-13 23:55:21,224 - fastAPI - INFO - HP-API - local - Handling function: create_user
+2024-12-13 23:55:21,226 - fastAPI - ERROR - HP-API - local - 'MySQL' object has no attribute 'add'
+2024-12-13 23:55:21,226 - fastAPI - INFO - HP-API - local - Completed request in 0.0020 seconds
+2024-12-13 23:55:21,227 - fastAPI - INFO - HP-API - local - Response status code: 500
+2024-12-13 23:55:34,735 - fastAPI - INFO - HP-API - local - Incoming request: GET http://127.0.0.1:8855/users.
+2024-12-13 23:55:34,740 - fastAPI - INFO - HP-API - local - Handling function: get_all_users
+2024-12-13 23:55:34,744 - fastAPI - INFO - HP-API - local - Completed request in 0.0039 seconds
+2024-12-13 23:55:34,744 - fastAPI - INFO - HP-API - local - Response status code: 200
+2024-12-13 23:55:35,575 - fastAPI - INFO - HP-API - local - Incoming request: GET http://127.0.0.1:8855/users.
+2024-12-13 23:55:35,575 - fastAPI - INFO - HP-API - local - Handling function: get_all_users
+2024-12-13 23:55:35,578 - fastAPI - INFO - HP-API - local - Completed request in 0.0022 seconds
+2024-12-13 23:55:35,578 - fastAPI - INFO - HP-API - local - Response status code: 200
+2024-12-13 23:56:14,587 - fastAPI - INFO - HP-API - local - Incoming request: POST http://127.0.0.1:8855/users.
+2024-12-13 23:56:14,589 - fastAPI - INFO - HP-API - local - Handling function: create_user
+2024-12-13 23:56:14,598 - fastAPI - ERROR - HP-API - local - 'MySQL' object has no attribute 'add'
+2024-12-13 23:56:14,598 - fastAPI - INFO - HP-API - local - Completed request in 0.0089 seconds
+2024-12-13 23:56:14,598 - fastAPI - INFO - HP-API - local - Response status code: 500
+2024-12-13 23:56:56,853 - fastAPI - INFO - HP-API - local - Incoming request: GET http://127.0.0.1:8855/docs.
+2024-12-13 23:56:56,854 - fastAPI - INFO - HP-API - local - Handling function: swagger_ui_html
+2024-12-13 23:56:56,858 - fastAPI - INFO - HP-API - local - Completed request in 0.0033 seconds
+2024-12-13 23:56:56,858 - fastAPI - INFO - HP-API - local - Response status code: 200
+2024-12-13 23:56:57,103 - fastAPI - INFO - HP-API - local - Incoming request: GET http://127.0.0.1:8855/openapi.json.
+2024-12-13 23:56:57,103 - fastAPI - INFO - HP-API - local - Handling function: openapi
+2024-12-13 23:56:57,103 - fastAPI - INFO - HP-API - local - Completed request in 0.0004 seconds
+2024-12-13 23:56:57,103 - fastAPI - INFO - HP-API - local - Response status code: 200
+2024-12-13 23:57:13,297 - fastAPI - INFO - HP-API - local - Incoming request: POST http://127.0.0.1:8855/users.
+2024-12-13 23:57:13,298 - fastAPI - INFO - HP-API - local - Handling function: create_user
+2024-12-13 23:57:13,299 - fastAPI - ERROR - HP-API - local - 'MySQL' object has no attribute 'add'
+2024-12-13 23:57:13,299 - fastAPI - INFO - HP-API - local - Completed request in 0.0012 seconds
+2024-12-13 23:57:13,299 - fastAPI - INFO - HP-API - local - Response status code: 500
+2024-12-14 00:00:06,818 - fastAPI - INFO - HP-API - local - Incoming request: GET http://127.0.0.1:8855/.
+2024-12-14 00:00:06,819 - fastAPI - INFO - HP-API - local - Handling function: unknown
+2024-12-14 00:00:06,825 - fastAPI - INFO - HP-API - local - Completed request in 0.0050 seconds
+2024-12-14 00:00:06,825 - fastAPI - INFO - HP-API - local - Response status code: 404
+2024-12-14 00:00:17,030 - fastAPI - INFO - HP-API - local - Incoming request: GET http://127.0.0.1:8855/docs.
+2024-12-14 00:00:17,031 - fastAPI - INFO - HP-API - local - Handling function: swagger_ui_html
+2024-12-14 00:00:17,032 - fastAPI - INFO - HP-API - local - Completed request in 0.0005 seconds
+2024-12-14 00:00:17,032 - fastAPI - INFO - HP-API - local - Response status code: 200
+2024-12-14 00:00:17,107 - fastAPI - INFO - HP-API - local - Incoming request: GET http://127.0.0.1:8855/openapi.json.
+2024-12-14 00:00:17,107 - fastAPI - INFO - HP-API - local - Handling function: openapi
+2024-12-14 00:00:17,120 - fastAPI - INFO - HP-API - local - Completed request in 0.0124 seconds
+2024-12-14 00:00:17,120 - fastAPI - INFO - HP-API - local - Response status code: 200
+2024-12-14 00:00:24,742 - fastAPI - INFO - HP-API - local - Incoming request: GET http://127.0.0.1:8855/v1/users.
+2024-12-14 00:00:24,743 - fastAPI - INFO - HP-API - local - Handling function: get_all_users
+2024-12-14 00:00:24,748 - fastAPI - INFO - HP-API - local - Completed request in 0.0047 seconds
+2024-12-14 00:00:24,748 - fastAPI - INFO - HP-API - local - Response status code: 200
+2024-12-14 00:00:48,000 - fastAPI - INFO - HP-API - local - Incoming request: POST http://127.0.0.1:8855/v1/users.
+2024-12-14 00:00:48,000 - fastAPI - INFO - HP-API - local - Handling function: create_user
+2024-12-14 00:00:48,002 - fastAPI - ERROR - HP-API - local - 'MySQL' object has no attribute 'add'
+2024-12-14 00:00:48,002 - fastAPI - INFO - HP-API - local - Completed request in 0.0022 seconds
+2024-12-14 00:00:48,003 - fastAPI - INFO - HP-API - local - Response status code: 500
+2024-12-14 00:00:48,213 - fastAPI - INFO - HP-API - local - Incoming request: POST http://127.0.0.1:8855/v1/users.
+2024-12-14 00:00:48,213 - fastAPI - INFO - HP-API - local - Handling function: create_user
+2024-12-14 00:00:48,214 - fastAPI - ERROR - HP-API - local - 'MySQL' object has no attribute 'add'
+2024-12-14 00:00:48,215 - fastAPI - INFO - HP-API - local - Completed request in 0.0016 seconds
+2024-12-14 00:00:48,215 - fastAPI - INFO - HP-API - local - Response status code: 500
+2024-12-14 00:01:17,876 - fastAPI - INFO - HP-API - local - Incoming request: POST http://127.0.0.1:8855/v1/users.
+2024-12-14 00:01:17,876 - fastAPI - INFO - HP-API - local - Handling function: create_user
+2024-12-14 00:01:17,888 - fastAPI - INFO - HP-API - local - Completed request in 0.0108 seconds
+2024-12-14 00:01:17,888 - fastAPI - INFO - HP-API - local - Response status code: 200
+2024-12-14 00:01:29,601 - fastAPI - INFO - HP-API - local - Incoming request: GET http://127.0.0.1:8855/v1/users.
+2024-12-14 00:01:29,602 - fastAPI - INFO - HP-API - local - Handling function: get_all_users
+2024-12-14 00:01:29,604 - fastAPI - ERROR - HP-API - local - User() takes no arguments
+2024-12-14 00:01:29,605 - fastAPI - INFO - HP-API - local - Completed request in 0.0031 seconds
+2024-12-14 00:01:29,605 - fastAPI - INFO - HP-API - local - Response status code: 500
+2024-12-14 00:01:51,349 - fastAPI - INFO - HP-API - local - Incoming request: GET http://127.0.0.1:8855/v1/users.
+2024-12-14 00:01:51,349 - fastAPI - INFO - HP-API - local - Handling function: get_all_users
+2024-12-14 00:01:51,352 - fastAPI - ERROR - HP-API - local - User() takes no arguments
+2024-12-14 00:01:51,353 - fastAPI - INFO - HP-API - local - Completed request in 0.0033 seconds
+2024-12-14 00:01:51,353 - fastAPI - INFO - HP-API - local - Response status code: 500
+2024-12-14 00:03:04,933 - fastAPI - INFO - HP-API - local - Incoming request: GET http://127.0.0.1:8855/docs.
+2024-12-14 00:03:04,933 - fastAPI - INFO - HP-API - local - Handling function: swagger_ui_html
+2024-12-14 00:03:04,935 - fastAPI - INFO - HP-API - local - Completed request in 0.0009 seconds
+2024-12-14 00:03:04,935 - fastAPI - INFO - HP-API - local - Response status code: 200
+2024-12-14 00:03:05,192 - fastAPI - INFO - HP-API - local - Incoming request: GET http://127.0.0.1:8855/openapi.json.
+2024-12-14 00:03:05,192 - fastAPI - INFO - HP-API - local - Handling function: openapi
+2024-12-14 00:03:05,202 - fastAPI - INFO - HP-API - local - Completed request in 0.0099 seconds
+2024-12-14 00:03:05,202 - fastAPI - INFO - HP-API - local - Response status code: 200
+2024-12-14 00:03:12,756 - fastAPI - INFO - HP-API - local - Incoming request: GET http://127.0.0.1:8855/v1/users.
+2024-12-14 00:03:12,756 - fastAPI - INFO - HP-API - local - Handling function: get_all_users
+2024-12-14 00:03:12,758 - fastAPI - ERROR - HP-API - local - User() takes no arguments
+2024-12-14 00:03:12,759 - fastAPI - INFO - HP-API - local - Completed request in 0.0028 seconds
+2024-12-14 00:03:12,759 - fastAPI - INFO - HP-API - local - Response status code: 500
+2024-12-14 00:03:40,495 - fastAPI - INFO - HP-API - local - Incoming request: GET http://127.0.0.1:8855/docs.
+2024-12-14 00:03:40,495 - fastAPI - INFO - HP-API - local - Handling function: swagger_ui_html
+2024-12-14 00:03:40,495 - fastAPI - INFO - HP-API - local - Completed request in 0.0003 seconds
+2024-12-14 00:03:40,496 - fastAPI - INFO - HP-API - local - Response status code: 200
+2024-12-14 00:03:40,571 - fastAPI - INFO - HP-API - local - Incoming request: GET http://127.0.0.1:8855/openapi.json.
+2024-12-14 00:03:40,571 - fastAPI - INFO - HP-API - local - Handling function: openapi
+2024-12-14 00:03:40,572 - fastAPI - INFO - HP-API - local - Completed request in 0.0005 seconds
+2024-12-14 00:03:40,572 - fastAPI - INFO - HP-API - local - Response status code: 200
+2024-12-14 00:03:45,988 - fastAPI - INFO - HP-API - local - Incoming request: GET http://127.0.0.1:8855/v1/users.
+2024-12-14 00:03:45,988 - fastAPI - INFO - HP-API - local - Handling function: get_all_users
+2024-12-14 00:03:45,991 - fastAPI - ERROR - HP-API - local - User() takes no arguments
+2024-12-14 00:03:45,992 - fastAPI - INFO - HP-API - local - Completed request in 0.0032 seconds
+2024-12-14 00:03:45,992 - fastAPI - INFO - HP-API - local - Response status code: 500
+2024-12-14 00:04:09,747 - fastAPI - INFO - HP-API - local - Incoming request: GET http://127.0.0.1:8855/v1/users.
+2024-12-14 00:04:09,748 - fastAPI - INFO - HP-API - local - Handling function: get_all_users
+2024-12-14 00:04:09,750 - fastAPI - ERROR - HP-API - local - User() takes no arguments
+2024-12-14 00:04:09,750 - fastAPI - INFO - HP-API - local - Completed request in 0.0022 seconds
+2024-12-14 00:04:09,750 - fastAPI - INFO - HP-API - local - Response status code: 500
+2024-12-14 00:04:10,354 - fastAPI - INFO - HP-API - local - Incoming request: GET http://127.0.0.1:8855/v1/users.
+2024-12-14 00:04:10,355 - fastAPI - INFO - HP-API - local - Handling function: get_all_users
+2024-12-14 00:04:10,362 - fastAPI - ERROR - HP-API - local - User() takes no arguments
+2024-12-14 00:04:10,363 - fastAPI - INFO - HP-API - local - Completed request in 0.0031 seconds
+2024-12-14 00:04:10,363 - fastAPI - INFO - HP-API - local - Response status code: 500
+2024-12-14 00:04:10,776 - fastAPI - INFO - HP-API - local - Incoming request: GET http://127.0.0.1:8855/v1/users.
+2024-12-14 00:04:10,776 - fastAPI - INFO - HP-API - local - Handling function: get_all_users
+2024-12-14 00:04:10,778 - fastAPI - ERROR - HP-API - local - User() takes no arguments
+2024-12-14 00:04:10,779 - fastAPI - INFO - HP-API - local - Completed request in 0.0023 seconds
+2024-12-14 00:04:10,779 - fastAPI - INFO - HP-API - local - Response status code: 500
+2024-12-14 00:04:40,079 - fastAPI - INFO - HP-API - local - Incoming request: GET http://127.0.0.1:8855/v1/users.
+2024-12-14 00:04:40,080 - fastAPI - INFO - HP-API - local - Handling function: get_all_users
+2024-12-14 00:04:40,083 - fastAPI - ERROR - HP-API - local - User() takes no arguments
+2024-12-14 00:04:40,083 - fastAPI - INFO - HP-API - local - Completed request in 0.0034 seconds
+2024-12-14 00:04:40,083 - fastAPI - INFO - HP-API - local - Response status code: 500
+2024-12-14 00:04:56,712 - fastAPI - INFO - HP-API - local - Incoming request: GET http://127.0.0.1:8855/v1/users.
+2024-12-14 00:04:56,712 - fastAPI - INFO - HP-API - local - Handling function: get_all_users
+2024-12-14 00:04:56,714 - fastAPI - ERROR - HP-API - local - User() takes no arguments
+2024-12-14 00:04:56,715 - fastAPI - INFO - HP-API - local - Completed request in 0.0029 seconds
+2024-12-14 00:04:56,715 - fastAPI - INFO - HP-API - local - Response status code: 500
+2024-12-14 00:05:07,624 - fastAPI - INFO - HP-API - local - Incoming request: GET http://127.0.0.1:8855/docs.
+2024-12-14 00:05:07,624 - fastAPI - INFO - HP-API - local - Handling function: swagger_ui_html
+2024-12-14 00:05:07,626 - fastAPI - INFO - HP-API - local - Completed request in 0.0019 seconds
+2024-12-14 00:05:07,627 - fastAPI - INFO - HP-API - local - Response status code: 200
+2024-12-14 00:05:07,735 - fastAPI - INFO - HP-API - local - Incoming request: GET http://127.0.0.1:8855/openapi.json.
+2024-12-14 00:05:07,736 - fastAPI - INFO - HP-API - local - Handling function: openapi
+2024-12-14 00:05:07,744 - fastAPI - INFO - HP-API - local - Completed request in 0.0083 seconds
+2024-12-14 00:05:07,744 - fastAPI - INFO - HP-API - local - Response status code: 200
+2024-12-14 00:05:13,355 - fastAPI - INFO - HP-API - local - Incoming request: GET http://127.0.0.1:8855/v1/users.
+2024-12-14 00:05:13,355 - fastAPI - INFO - HP-API - local - Handling function: get_all_users
+2024-12-14 00:05:13,358 - fastAPI - ERROR - HP-API - local - User() takes no arguments
+2024-12-14 00:05:13,358 - fastAPI - INFO - HP-API - local - Completed request in 0.0030 seconds
+2024-12-14 00:05:13,359 - fastAPI - INFO - HP-API - local - Response status code: 500
+2024-12-14 00:05:41,838 - fastAPI - INFO - HP-API - local - Incoming request: GET http://127.0.0.1:8855/docs.
+2024-12-14 00:05:41,838 - fastAPI - INFO - HP-API - local - Handling function: swagger_ui_html
+2024-12-14 00:05:41,839 - fastAPI - INFO - HP-API - local - Completed request in 0.0006 seconds
+2024-12-14 00:05:41,840 - fastAPI - INFO - HP-API - local - Response status code: 200
+2024-12-14 00:05:41,930 - fastAPI - INFO - HP-API - local - Incoming request: GET http://127.0.0.1:8855/openapi.json.
+2024-12-14 00:05:41,931 - fastAPI - INFO - HP-API - local - Handling function: openapi
+2024-12-14 00:05:41,939 - fastAPI - INFO - HP-API - local - Completed request in 0.0081 seconds
+2024-12-14 00:05:41,939 - fastAPI - INFO - HP-API - local - Response status code: 200
+2024-12-14 00:05:45,892 - fastAPI - INFO - HP-API - local - Incoming request: GET http://127.0.0.1:8855/v1/users.
+2024-12-14 00:05:45,892 - fastAPI - INFO - HP-API - local - Handling function: get_all_users
+2024-12-14 00:05:45,894 - fastAPI - ERROR - HP-API - local - User() takes no arguments
+2024-12-14 00:05:45,895 - fastAPI - INFO - HP-API - local - Completed request in 0.0028 seconds
+2024-12-14 00:05:45,895 - fastAPI - INFO - HP-API - local - Response status code: 500
+2024-12-14 00:07:04,000 - fastAPI - INFO - HP-API - local - Incoming request: GET http://127.0.0.1:8855/docs.
+2024-12-14 00:07:04,001 - fastAPI - INFO - HP-API - local - Handling function: swagger_ui_html
+2024-12-14 00:07:04,003 - fastAPI - INFO - HP-API - local - Completed request in 0.0011 seconds
+2024-12-14 00:07:04,003 - fastAPI - INFO - HP-API - local - Response status code: 200
+2024-12-14 00:07:04,080 - fastAPI - INFO - HP-API - local - Incoming request: GET http://127.0.0.1:8855/openapi.json.
+2024-12-14 00:07:04,081 - fastAPI - INFO - HP-API - local - Handling function: openapi
+2024-12-14 00:07:04,089 - fastAPI - INFO - HP-API - local - Completed request in 0.0083 seconds
+2024-12-14 00:07:04,089 - fastAPI - INFO - HP-API - local - Response status code: 200
+2024-12-14 00:07:18,466 - fastAPI - INFO - HP-API - local - Incoming request: POST http://127.0.0.1:8855/v1/users.
+2024-12-14 00:07:18,466 - fastAPI - INFO - HP-API - local - Handling function: create_user
+2024-12-14 00:07:18,475 - fastAPI - INFO - HP-API - local - Completed request in 0.0089 seconds
+2024-12-14 00:07:18,475 - fastAPI - INFO - HP-API - local - Response status code: 200
+2024-12-14 00:07:38,210 - fastAPI - INFO - HP-API - local - Incoming request: GET http://127.0.0.1:8855/v1/users.
+2024-12-14 00:07:38,210 - fastAPI - INFO - HP-API - local - Handling function: get_all_users
+2024-12-14 00:07:38,213 - fastAPI - ERROR - HP-API - local - User() takes no arguments
+2024-12-14 00:07:38,214 - fastAPI - INFO - HP-API - local - Completed request in 0.0037 seconds
+2024-12-14 00:07:38,214 - fastAPI - INFO - HP-API - local - Response status code: 500
+2024-12-14 00:07:50,161 - fastAPI - INFO - HP-API - local - Incoming request: GET http://127.0.0.1:8855/v1/users/askdgld.
+2024-12-14 00:07:50,161 - fastAPI - INFO - HP-API - local - Handling function: get_user
+2024-12-14 00:07:50,163 - fastAPI - ERROR - HP-API - local - OSUCS461.Models.ReadUser() argument after ** must be a mapping, not NoneType
+2024-12-14 00:07:50,164 - fastAPI - INFO - HP-API - local - Completed request in 0.0022 seconds
+2024-12-14 00:07:50,164 - fastAPI - INFO - HP-API - local - Response status code: 500
+2024-12-14 00:08:08,182 - fastAPI - INFO - HP-API - local - Incoming request: GET http://127.0.0.1:8855/v1/users/askdgld.
+2024-12-14 00:08:08,183 - fastAPI - INFO - HP-API - local - Handling function: get_user
+2024-12-14 00:08:08,185 - fastAPI - ERROR - HP-API - local - OSUCS461.Models.ReadUser() argument after ** must be a mapping, not NoneType
+2024-12-14 00:08:08,186 - fastAPI - INFO - HP-API - local - Completed request in 0.0035 seconds
+2024-12-14 00:08:08,187 - fastAPI - INFO - HP-API - local - Response status code: 500
+2024-12-14 00:08:14,831 - fastAPI - INFO - HP-API - local - Incoming request: GET http://127.0.0.1:8855/v1/users/askdgld.
+2024-12-14 00:08:14,831 - fastAPI - INFO - HP-API - local - Handling function: get_user
+2024-12-14 00:08:14,832 - fastAPI - ERROR - HP-API - local - OSUCS461.Models.ReadUser() argument after ** must be a mapping, not NoneType
+2024-12-14 00:08:14,833 - fastAPI - INFO - HP-API - local - Completed request in 0.0015 seconds
+2024-12-14 00:08:14,833 - fastAPI - INFO - HP-API - local - Response status code: 500
+2024-12-14 00:08:26,060 - fastAPI - INFO - HP-API - local - Incoming request: GET http://127.0.0.1:8855/docs.
+2024-12-14 00:08:26,060 - fastAPI - INFO - HP-API - local - Handling function: swagger_ui_html
+2024-12-14 00:08:26,061 - fastAPI - INFO - HP-API - local - Completed request in 0.0006 seconds
+2024-12-14 00:08:26,061 - fastAPI - INFO - HP-API - local - Response status code: 200
+2024-12-14 00:08:26,210 - fastAPI - INFO - HP-API - local - Incoming request: GET http://127.0.0.1:8855/openapi.json.
+2024-12-14 00:08:26,210 - fastAPI - INFO - HP-API - local - Handling function: openapi
+2024-12-14 00:08:26,218 - fastAPI - INFO - HP-API - local - Completed request in 0.0075 seconds
+2024-12-14 00:08:26,218 - fastAPI - INFO - HP-API - local - Response status code: 200
+2024-12-14 00:08:37,378 - fastAPI - INFO - HP-API - local - Incoming request: GET http://127.0.0.1:8855/v1/users.
+2024-12-14 00:08:37,379 - fastAPI - INFO - HP-API - local - Handling function: get_all_users
+2024-12-14 00:08:37,381 - fastAPI - ERROR - HP-API - local - User() takes no arguments
+2024-12-14 00:08:37,382 - fastAPI - INFO - HP-API - local - Completed request in 0.0034 seconds
+2024-12-14 00:08:37,382 - fastAPI - INFO - HP-API - local - Response status code: 500
+2024-12-14 00:08:52,359 - fastAPI - INFO - HP-API - local - Incoming request: GET http://127.0.0.1:8855/v1/users.
+2024-12-14 00:08:52,359 - fastAPI - INFO - HP-API - local - Handling function: get_all_users
+2024-12-14 00:08:52,363 - fastAPI - ERROR - HP-API - local - User() takes no arguments
+2024-12-14 00:08:52,363 - fastAPI - INFO - HP-API - local - Completed request in 0.0036 seconds
+2024-12-14 00:08:52,363 - fastAPI - INFO - HP-API - local - Response status code: 500
+2024-12-14 00:09:56,428 - fastAPI - INFO - HP-API - local - Incoming request: GET http://127.0.0.1:8855/v1/users.
+2024-12-14 00:09:56,428 - fastAPI - INFO - HP-API - local - Handling function: get_all_users
+2024-12-14 00:09:56,435 - fastAPI - INFO - HP-API - local - Completed request in 0.0071 seconds
+2024-12-14 00:09:56,435 - fastAPI - INFO - HP-API - local - Response status code: 200
+2024-12-14 00:10:36,065 - fastAPI - INFO - HP-API - local - Incoming request: GET http://127.0.0.1:8855/docs.
+2024-12-14 00:10:36,066 - fastAPI - INFO - HP-API - local - Handling function: swagger_ui_html
+2024-12-14 00:10:36,067 - fastAPI - INFO - HP-API - local - Completed request in 0.0009 seconds
+2024-12-14 00:10:36,067 - fastAPI - INFO - HP-API - local - Response status code: 200
+2024-12-14 00:10:36,157 - fastAPI - INFO - HP-API - local - Incoming request: GET http://127.0.0.1:8855/openapi.json.
+2024-12-14 00:10:36,157 - fastAPI - INFO - HP-API - local - Handling function: openapi
+2024-12-14 00:10:36,167 - fastAPI - INFO - HP-API - local - Completed request in 0.0097 seconds
+2024-12-14 00:10:36,167 - fastAPI - INFO - HP-API - local - Response status code: 200
+2024-12-14 00:10:40,141 - fastAPI - INFO - HP-API - local - Incoming request: GET http://127.0.0.1:8855/v1/users.
+2024-12-14 00:10:40,142 - fastAPI - INFO - HP-API - local - Handling function: get_all_users
+2024-12-14 00:10:40,146 - fastAPI - INFO - HP-API - local - Completed request in 0.0044 seconds
+2024-12-14 00:10:40,147 - fastAPI - INFO - HP-API - local - Response status code: 200
+2024-12-14 00:10:49,281 - fastAPI - INFO - HP-API - local - Incoming request: GET http://127.0.0.1:8855/v1/users/asdasdgsdag.
+2024-12-14 00:10:49,281 - fastAPI - INFO - HP-API - local - Handling function: get_user
+2024-12-14 00:10:49,282 - fastAPI - ERROR - HP-API - local - type object 'ReadUser' has no attribute 'get'
+2024-12-14 00:10:49,283 - fastAPI - INFO - HP-API - local - Completed request in 0.0017 seconds
+2024-12-14 00:10:49,284 - fastAPI - INFO - HP-API - local - Response status code: 500
+2024-12-14 00:11:37,434 - fastAPI - INFO - HP-API - local - Incoming request: GET http://127.0.0.1:8855/v1/users.
+2024-12-14 00:11:37,434 - fastAPI - INFO - HP-API - local - Handling function: get_all_users
+2024-12-14 00:11:37,444 - fastAPI - ERROR - HP-API - local - 'NoneType' object is not iterable
+2024-12-14 00:11:37,447 - fastAPI - INFO - HP-API - local - Completed request in 0.0126 seconds
+2024-12-14 00:11:37,447 - fastAPI - INFO - HP-API - local - Response status code: 500
+2024-12-14 00:11:54,318 - fastAPI - INFO - HP-API - local - Incoming request: GET http://127.0.0.1:8855/docs.
+2024-12-14 00:11:54,318 - fastAPI - INFO - HP-API - local - Handling function: swagger_ui_html
+2024-12-14 00:11:54,320 - fastAPI - INFO - HP-API - local - Completed request in 0.0008 seconds
+2024-12-14 00:11:54,320 - fastAPI - INFO - HP-API - local - Response status code: 200
+2024-12-14 00:11:54,441 - fastAPI - INFO - HP-API - local - Incoming request: GET http://127.0.0.1:8855/openapi.json.
+2024-12-14 00:11:54,442 - fastAPI - INFO - HP-API - local - Handling function: openapi
+2024-12-14 00:11:54,452 - fastAPI - INFO - HP-API - local - Completed request in 0.0100 seconds
+2024-12-14 00:11:54,453 - fastAPI - INFO - HP-API - local - Response status code: 200
+2024-12-14 00:12:01,161 - fastAPI - INFO - HP-API - local - Incoming request: GET http://127.0.0.1:8855/v1/users.
+2024-12-14 00:12:01,161 - fastAPI - INFO - HP-API - local - Handling function: get_all_users
+2024-12-14 00:12:01,164 - fastAPI - ERROR - HP-API - local - 'NoneType' object is not iterable
+2024-12-14 00:12:01,165 - fastAPI - INFO - HP-API - local - Completed request in 0.0037 seconds
+2024-12-14 00:12:01,165 - fastAPI - INFO - HP-API - local - Response status code: 500
+2024-12-14 00:12:12,414 - fastAPI - INFO - HP-API - local - Incoming request: GET http://127.0.0.1:8855/docs.
+2024-12-14 00:12:12,414 - fastAPI - INFO - HP-API - local - Handling function: swagger_ui_html
+2024-12-14 00:12:12,415 - fastAPI - INFO - HP-API - local - Completed request in 0.0006 seconds
+2024-12-14 00:12:12,415 - fastAPI - INFO - HP-API - local - Response status code: 200
+2024-12-14 00:12:12,508 - fastAPI - INFO - HP-API - local - Incoming request: GET http://127.0.0.1:8855/openapi.json.
+2024-12-14 00:12:12,508 - fastAPI - INFO - HP-API - local - Handling function: openapi
+2024-12-14 00:12:12,514 - fastAPI - INFO - HP-API - local - Completed request in 0.0055 seconds
+2024-12-14 00:12:12,514 - fastAPI - INFO - HP-API - local - Response status code: 200
+2024-12-14 00:12:15,379 - fastAPI - INFO - HP-API - local - Incoming request: GET http://127.0.0.1:8855/v1/users.
+2024-12-14 00:12:15,379 - fastAPI - INFO - HP-API - local - Handling function: get_all_users
+2024-12-14 00:12:15,383 - fastAPI - ERROR - HP-API - local - 'NoneType' object is not iterable
+2024-12-14 00:12:15,384 - fastAPI - INFO - HP-API - local - Completed request in 0.0049 seconds
+2024-12-14 00:12:15,385 - fastAPI - INFO - HP-API - local - Response status code: 500
+2024-12-14 00:12:32,829 - fastAPI - INFO - HP-API - local - Incoming request: GET http://127.0.0.1:8855/v1/users.
+2024-12-14 00:12:32,830 - fastAPI - INFO - HP-API - local - Handling function: get_all_users
+2024-12-14 00:12:32,833 - fastAPI - ERROR - HP-API - local - User() takes no arguments
+2024-12-14 00:12:32,833 - fastAPI - INFO - HP-API - local - Completed request in 0.0027 seconds
+2024-12-14 00:12:32,833 - fastAPI - INFO - HP-API - local - Response status code: 500
+2024-12-14 00:12:35,354 - fastAPI - INFO - HP-API - local - Incoming request: GET http://127.0.0.1:8855/docs.
+2024-12-14 00:12:35,355 - fastAPI - INFO - HP-API - local - Handling function: swagger_ui_html
+2024-12-14 00:12:35,356 - fastAPI - INFO - HP-API - local - Completed request in 0.0006 seconds
+2024-12-14 00:12:35,356 - fastAPI - INFO - HP-API - local - Response status code: 200
+2024-12-14 00:12:35,454 - fastAPI - INFO - HP-API - local - Incoming request: GET http://127.0.0.1:8855/openapi.json.
+2024-12-14 00:12:35,455 - fastAPI - INFO - HP-API - local - Handling function: openapi
+2024-12-14 00:12:35,462 - fastAPI - INFO - HP-API - local - Completed request in 0.0073 seconds
+2024-12-14 00:12:35,462 - fastAPI - INFO - HP-API - local - Response status code: 200
+2024-12-14 00:12:38,182 - fastAPI - INFO - HP-API - local - Incoming request: GET http://127.0.0.1:8855/v1/users.
+2024-12-14 00:12:38,183 - fastAPI - INFO - HP-API - local - Handling function: get_all_users
+2024-12-14 00:12:38,187 - fastAPI - ERROR - HP-API - local - User() takes no arguments
+2024-12-14 00:12:38,187 - fastAPI - INFO - HP-API - local - Completed request in 0.0038 seconds
+2024-12-14 00:12:38,188 - fastAPI - INFO - HP-API - local - Response status code: 500
+2024-12-14 00:12:59,376 - fastAPI - INFO - HP-API - local - Incoming request: GET http://127.0.0.1:8855/v1/users.
+2024-12-14 00:12:59,376 - fastAPI - INFO - HP-API - local - Handling function: get_all_users
+2024-12-14 00:12:59,384 - fastAPI - INFO - HP-API - local - Completed request in 0.0071 seconds
+2024-12-14 00:12:59,384 - fastAPI - INFO - HP-API - local - Response status code: 200
+2024-12-14 00:13:32,525 - fastAPI - INFO - HP-API - local - Incoming request: GET http://127.0.0.1:8855/v1/users/asdasdgsdag.
+2024-12-14 00:13:32,525 - fastAPI - INFO - HP-API - local - Handling function: get_user
+2024-12-14 00:13:32,528 - fastAPI - ERROR - HP-API - local - OSUCS461.Models.ReadUser() argument after ** must be a mapping, not NoneType
+2024-12-14 00:13:32,529 - fastAPI - INFO - HP-API - local - Completed request in 0.0033 seconds
+2024-12-14 00:13:32,529 - fastAPI - INFO - HP-API - local - Response status code: 500
+2024-12-14 00:14:15,072 - fastAPI - INFO - HP-API - local - Incoming request: GET http://127.0.0.1:8855/docs.
+2024-12-14 00:14:15,073 - fastAPI - INFO - HP-API - local - Handling function: swagger_ui_html
+2024-12-14 00:14:15,073 - fastAPI - INFO - HP-API - local - Completed request in 0.0005 seconds
+2024-12-14 00:14:15,074 - fastAPI - INFO - HP-API - local - Response status code: 200
+2024-12-14 00:14:15,202 - fastAPI - INFO - HP-API - local - Incoming request: GET http://127.0.0.1:8855/openapi.json.
+2024-12-14 00:14:15,203 - fastAPI - INFO - HP-API - local - Handling function: openapi
+2024-12-14 00:14:15,210 - fastAPI - INFO - HP-API - local - Completed request in 0.0070 seconds
+2024-12-14 00:14:15,211 - fastAPI - INFO - HP-API - local - Response status code: 200
+2024-12-14 00:14:23,245 - fastAPI - INFO - HP-API - local - Incoming request: GET http://127.0.0.1:8855/v1/users.
+2024-12-14 00:14:23,245 - fastAPI - INFO - HP-API - local - Handling function: get_all_users
+2024-12-14 00:14:23,248 - fastAPI - INFO - HP-API - local - Completed request in 0.0027 seconds
+2024-12-14 00:14:23,248 - fastAPI - INFO - HP-API - local - Response status code: 200
+2024-12-14 00:14:28,743 - fastAPI - INFO - HP-API - local - Incoming request: GET http://127.0.0.1:8855/v1/users/asdasdgsdag.
+2024-12-14 00:14:28,743 - fastAPI - INFO - HP-API - local - Handling function: get_user
+2024-12-14 00:14:28,750 - fastAPI - ERROR - HP-API - local - OSUCS461.Models.ReadUser() argument after ** must be a mapping, not NoneType
+2024-12-14 00:14:28,752 - fastAPI - INFO - HP-API - local - Completed request in 0.0059 seconds
+2024-12-14 00:14:28,753 - fastAPI - INFO - HP-API - local - Response status code: 500
+2024-12-14 00:16:07,560 - fastAPI - INFO - HP-API - local - Incoming request: GET http://127.0.0.1:8855/v1/users/asdasdgsdag.
+2024-12-14 00:16:07,561 - fastAPI - INFO - HP-API - local - Handling function: get_user
+2024-12-14 00:16:07,565 - fastAPI - ERROR - HP-API - local - OSUCS461.Models.ReadUser() argument after ** must be a mapping, not NoneType
+2024-12-14 00:16:07,565 - fastAPI - INFO - HP-API - local - Completed request in 0.0043 seconds
+2024-12-14 00:16:07,566 - fastAPI - INFO - HP-API - local - Response status code: 500
+2024-12-14 00:16:12,474 - fastAPI - INFO - HP-API - local - Incoming request: GET http://127.0.0.1:8855/docs.
+2024-12-14 00:16:12,474 - fastAPI - INFO - HP-API - local - Handling function: swagger_ui_html
+2024-12-14 00:16:12,475 - fastAPI - INFO - HP-API - local - Completed request in 0.0003 seconds
+2024-12-14 00:16:12,475 - fastAPI - INFO - HP-API - local - Response status code: 200
+2024-12-14 00:16:12,592 - fastAPI - INFO - HP-API - local - Incoming request: GET http://127.0.0.1:8855/openapi.json.
+2024-12-14 00:16:12,593 - fastAPI - INFO - HP-API - local - Handling function: openapi
+2024-12-14 00:16:12,596 - fastAPI - INFO - HP-API - local - Completed request in 0.0013 seconds
+2024-12-14 00:16:12,597 - fastAPI - INFO - HP-API - local - Response status code: 200
+2024-12-14 00:16:30,257 - fastAPI - INFO - HP-API - local - Incoming request: GET http://127.0.0.1:8855/v1/users/asdasdgsdag.
+2024-12-14 00:16:30,257 - fastAPI - INFO - HP-API - local - Handling function: get_user
+2024-12-14 00:16:30,259 - fastAPI - ERROR - HP-API - local - OSUCS461.Models.ReadUser() argument after ** must be a mapping, not NoneType
+2024-12-14 00:16:30,259 - fastAPI - INFO - HP-API - local - Completed request in 0.0020 seconds
+2024-12-14 00:16:30,260 - fastAPI - INFO - HP-API - local - Response status code: 500
+2024-12-14 00:16:40,086 - fastAPI - INFO - HP-API - local - Incoming request: GET http://127.0.0.1:8855/v1/users.
+2024-12-14 00:16:40,086 - fastAPI - INFO - HP-API - local - Handling function: get_all_users
+2024-12-14 00:16:40,090 - fastAPI - INFO - HP-API - local - Completed request in 0.0031 seconds
+2024-12-14 00:16:40,090 - fastAPI - INFO - HP-API - local - Response status code: 200
+2024-12-14 00:16:47,086 - fastAPI - INFO - HP-API - local - Incoming request: GET http://127.0.0.1:8855/v1/users/askdgld.
+2024-12-14 00:16:47,087 - fastAPI - INFO - HP-API - local - Handling function: get_user
+2024-12-14 00:16:47,088 - fastAPI - ERROR - HP-API - local - OSUCS461.Models.ReadUser() argument after ** must be a mapping, not NoneType
+2024-12-14 00:16:47,089 - fastAPI - INFO - HP-API - local - Completed request in 0.0019 seconds
+2024-12-14 00:16:47,089 - fastAPI - INFO - HP-API - local - Response status code: 500
+2024-12-14 00:16:55,551 - fastAPI - INFO - HP-API - local - Incoming request: GET http://127.0.0.1:8855/v1/users/askdgld.
+2024-12-14 00:16:55,552 - fastAPI - INFO - HP-API - local - Handling function: get_user
+2024-12-14 00:16:55,554 - fastAPI - ERROR - HP-API - local - OSUCS461.Models.ReadUser() argument after ** must be a mapping, not NoneType
+2024-12-14 00:16:55,555 - fastAPI - INFO - HP-API - local - Completed request in 0.0026 seconds
+2024-12-14 00:16:55,555 - fastAPI - INFO - HP-API - local - Response status code: 500
+2024-12-14 00:16:55,700 - fastAPI - INFO - HP-API - local - Incoming request: GET http://127.0.0.1:8855/v1/users/askdgld.
+2024-12-14 00:16:55,700 - fastAPI - INFO - HP-API - local - Handling function: get_user
+2024-12-14 00:16:55,702 - fastAPI - ERROR - HP-API - local - OSUCS461.Models.ReadUser() argument after ** must be a mapping, not NoneType
+2024-12-14 00:16:55,702 - fastAPI - INFO - HP-API - local - Completed request in 0.0019 seconds
+2024-12-14 00:16:55,703 - fastAPI - INFO - HP-API - local - Response status code: 500
+2024-12-14 00:16:55,824 - fastAPI - INFO - HP-API - local - Incoming request: GET http://127.0.0.1:8855/v1/users/askdgld.
+2024-12-14 00:16:55,824 - fastAPI - INFO - HP-API - local - Handling function: get_user
+2024-12-14 00:16:55,826 - fastAPI - ERROR - HP-API - local - OSUCS461.Models.ReadUser() argument after ** must be a mapping, not NoneType
+2024-12-14 00:16:55,827 - fastAPI - INFO - HP-API - local - Completed request in 0.0024 seconds
+2024-12-14 00:16:55,827 - fastAPI - INFO - HP-API - local - Response status code: 500
+2024-12-14 00:18:11,658 - fastAPI - INFO - HP-API - local - Incoming request: GET http://127.0.0.1:8855/v1/users/askdgld.
+2024-12-14 00:18:11,659 - fastAPI - INFO - HP-API - local - Handling function: get_user
+2024-12-14 00:18:11,663 - fastAPI - ERROR - HP-API - local - OSUCS461.Models.ReadUser() argument after ** must be a mapping, not NoneType
+2024-12-14 00:18:11,665 - fastAPI - INFO - HP-API - local - Completed request in 0.0057 seconds
+2024-12-14 00:18:11,665 - fastAPI - INFO - HP-API - local - Response status code: 500
+2024-12-14 00:19:54,134 - fastAPI - INFO - HP-API - local - Incoming request: GET http://127.0.0.1:8855/v1/users.
+2024-12-14 00:19:54,140 - fastAPI - INFO - HP-API - local - Handling function: get_all_users
+2024-12-14 00:19:54,145 - fastAPI - INFO - HP-API - local - Completed request in 0.0050 seconds
+2024-12-14 00:19:54,145 - fastAPI - INFO - HP-API - local - Response status code: 200
+2024-12-14 00:20:04,034 - fastAPI - INFO - HP-API - local - Incoming request: GET http://127.0.0.1:8855/v1/users/af5c91fabd6f9ae48897b594894dca68.
+2024-12-14 00:20:04,035 - fastAPI - INFO - HP-API - local - Handling function: get_user
+2024-12-14 00:20:04,037 - fastAPI - INFO - HP-API - local - Completed request in 0.0026 seconds
+2024-12-14 00:20:04,038 - fastAPI - INFO - HP-API - local - Response status code: 200
+2024-12-14 00:20:46,423 - fastAPI - INFO - HP-API - local - Incoming request: GET http://127.0.0.1:8855/docs.
+2024-12-14 00:20:46,424 - fastAPI - INFO - HP-API - local - Handling function: swagger_ui_html
+2024-12-14 00:20:46,425 - fastAPI - INFO - HP-API - local - Completed request in 0.0009 seconds
+2024-12-14 00:20:46,425 - fastAPI - INFO - HP-API - local - Response status code: 200
+2024-12-14 00:20:46,561 - fastAPI - INFO - HP-API - local - Incoming request: GET http://127.0.0.1:8855/openapi.json.
+2024-12-14 00:20:46,562 - fastAPI - INFO - HP-API - local - Handling function: openapi
+2024-12-14 00:20:46,574 - fastAPI - INFO - HP-API - local - Completed request in 0.0112 seconds
+2024-12-14 00:20:46,575 - fastAPI - INFO - HP-API - local - Response status code: 200
+2024-12-14 00:20:53,274 - fastAPI - INFO - HP-API - local - Incoming request: GET http://127.0.0.1:8855/v1/users/af5c91fabd6f9ae48897b594894dca68.
+2024-12-14 00:20:53,275 - fastAPI - INFO - HP-API - local - Handling function: get_user
+2024-12-14 00:20:53,277 - fastAPI - INFO - HP-API - local - Completed request in 0.0023 seconds
+2024-12-14 00:20:53,277 - fastAPI - INFO - HP-API - local - Response status code: 200
+2024-12-14 00:21:04,190 - fastAPI - INFO - HP-API - local - Incoming request: POST http://127.0.0.1:8855/v1/users.
+2024-12-14 00:21:04,190 - fastAPI - INFO - HP-API - local - Handling function: create_user
+2024-12-14 00:21:04,216 - fastAPI - ERROR - HP-API - local - OSUCS461.Models.ReadUser() argument after ** must be a mapping, not NoneType
+2024-12-14 00:21:04,217 - fastAPI - INFO - HP-API - local - Completed request in 0.0259 seconds
+2024-12-14 00:21:04,217 - fastAPI - INFO - HP-API - local - Response status code: 500
+2024-12-14 00:21:27,507 - fastAPI - INFO - HP-API - local - Incoming request: GET http://127.0.0.1:8855/docs.
+2024-12-14 00:21:27,507 - fastAPI - INFO - HP-API - local - Handling function: swagger_ui_html
+2024-12-14 00:21:27,508 - fastAPI - INFO - HP-API - local - Completed request in 0.0008 seconds
+2024-12-14 00:21:27,508 - fastAPI - INFO - HP-API - local - Response status code: 200
+2024-12-14 00:21:27,619 - fastAPI - INFO - HP-API - local - Incoming request: GET http://127.0.0.1:8855/openapi.json.
+2024-12-14 00:21:27,620 - fastAPI - INFO - HP-API - local - Handling function: openapi
+2024-12-14 00:21:27,627 - fastAPI - INFO - HP-API - local - Completed request in 0.0070 seconds
+2024-12-14 00:21:27,627 - fastAPI - INFO - HP-API - local - Response status code: 200
+2024-12-14 00:21:34,128 - fastAPI - INFO - HP-API - local - Incoming request: GET http://127.0.0.1:8855/v1/users.
+2024-12-14 00:21:34,128 - fastAPI - INFO - HP-API - local - Handling function: get_all_users
+2024-12-14 00:21:34,132 - fastAPI - INFO - HP-API - local - Completed request in 0.0036 seconds
+2024-12-14 00:21:34,132 - fastAPI - INFO - HP-API - local - Response status code: 200
+2024-12-14 00:21:41,141 - fastAPI - INFO - HP-API - local - Incoming request: POST http://127.0.0.1:8855/v1/users.
+2024-12-14 00:21:41,141 - fastAPI - INFO - HP-API - local - Handling function: create_user
+2024-12-14 00:21:41,154 - fastAPI - ERROR - HP-API - local - 'name'
+2024-12-14 00:21:41,155 - fastAPI - INFO - HP-API - local - Completed request in 0.0131 seconds
+2024-12-14 00:21:41,155 - fastAPI - INFO - HP-API - local - Response status code: 500
+2024-12-14 00:22:03,727 - fastAPI - INFO - HP-API - local - Incoming request: POST http://127.0.0.1:8855/v1/users.
+2024-12-14 00:22:03,727 - fastAPI - INFO - HP-API - local - Handling function: create_user
+2024-12-14 00:22:03,739 - fastAPI - ERROR - HP-API - local - OSUCS461.Models.ReadUser() argument after ** must be a mapping, not NoneType
+2024-12-14 00:22:03,740 - fastAPI - INFO - HP-API - local - Completed request in 0.0123 seconds
+2024-12-14 00:22:03,740 - fastAPI - INFO - HP-API - local - Response status code: 500
+2024-12-14 00:22:09,375 - fastAPI - INFO - HP-API - local - Incoming request: GET http://127.0.0.1:8855/docs.
+2024-12-14 00:22:09,375 - fastAPI - INFO - HP-API - local - Handling function: swagger_ui_html
+2024-12-14 00:22:09,380 - fastAPI - INFO - HP-API - local - Completed request in 0.0006 seconds
+2024-12-14 00:22:09,381 - fastAPI - INFO - HP-API - local - Response status code: 200
+2024-12-14 00:22:09,495 - fastAPI - INFO - HP-API - local - Incoming request: GET http://127.0.0.1:8855/openapi.json.
+2024-12-14 00:22:09,496 - fastAPI - INFO - HP-API - local - Handling function: openapi
+2024-12-14 00:22:09,506 - fastAPI - INFO - HP-API - local - Completed request in 0.0095 seconds
+2024-12-14 00:22:09,506 - fastAPI - INFO - HP-API - local - Response status code: 200
+2024-12-14 00:22:13,322 - fastAPI - INFO - HP-API - local - Incoming request: GET http://127.0.0.1:8855/docs.
+2024-12-14 00:22:13,323 - fastAPI - INFO - HP-API - local - Handling function: swagger_ui_html
+2024-12-14 00:22:13,323 - fastAPI - INFO - HP-API - local - Completed request in 0.0005 seconds
+2024-12-14 00:22:13,324 - fastAPI - INFO - HP-API - local - Response status code: 200
+2024-12-14 00:22:13,406 - fastAPI - INFO - HP-API - local - Incoming request: GET http://127.0.0.1:8855/openapi.json.
+2024-12-14 00:22:13,407 - fastAPI - INFO - HP-API - local - Handling function: openapi
+2024-12-14 00:22:13,407 - fastAPI - INFO - HP-API - local - Completed request in 0.0005 seconds
+2024-12-14 00:22:13,407 - fastAPI - INFO - HP-API - local - Response status code: 200
+2024-12-14 00:22:26,980 - fastAPI - INFO - HP-API - local - Incoming request: POST http://127.0.0.1:8855/v1/users.
+2024-12-14 00:22:26,980 - fastAPI - INFO - HP-API - local - Handling function: create_user
+2024-12-14 00:22:26,993 - fastAPI - ERROR - HP-API - local - OSUCS461.Models.ReadUser() argument after ** must be a mapping, not NoneType
+2024-12-14 00:22:26,994 - fastAPI - INFO - HP-API - local - Completed request in 0.0133 seconds
+2024-12-14 00:22:26,994 - fastAPI - INFO - HP-API - local - Response status code: 500
+2024-12-14 00:22:42,765 - fastAPI - INFO - HP-API - local - Incoming request: POST http://127.0.0.1:8855/v1/users.
+2024-12-14 00:22:42,766 - fastAPI - INFO - HP-API - local - Handling function: create_user
+2024-12-14 00:22:42,781 - fastAPI - ERROR - HP-API - local - OSUCS461.Models.ReadUser() argument after ** must be a mapping, not NoneType
+2024-12-14 00:22:42,784 - fastAPI - INFO - HP-API - local - Completed request in 0.0174 seconds
+2024-12-14 00:22:42,784 - fastAPI - INFO - HP-API - local - Response status code: 500
+2024-12-14 00:23:11,115 - fastAPI - INFO - HP-API - local - Incoming request: GET http://127.0.0.1:8855/docs.
+2024-12-14 00:23:11,116 - fastAPI - INFO - HP-API - local - Handling function: swagger_ui_html
+2024-12-14 00:23:11,116 - fastAPI - INFO - HP-API - local - Completed request in 0.0006 seconds
+2024-12-14 00:23:11,116 - fastAPI - INFO - HP-API - local - Response status code: 200
+2024-12-14 00:23:11,238 - fastAPI - INFO - HP-API - local - Incoming request: GET http://127.0.0.1:8855/openapi.json.
+2024-12-14 00:23:11,239 - fastAPI - INFO - HP-API - local - Handling function: openapi
+2024-12-14 00:23:11,248 - fastAPI - INFO - HP-API - local - Completed request in 0.0085 seconds
+2024-12-14 00:23:11,248 - fastAPI - INFO - HP-API - local - Response status code: 200
+2024-12-14 00:23:16,850 - fastAPI - INFO - HP-API - local - Incoming request: GET http://127.0.0.1:8855/v1/users.
+2024-12-14 00:23:16,851 - fastAPI - INFO - HP-API - local - Handling function: get_all_users
+2024-12-14 00:23:16,855 - fastAPI - INFO - HP-API - local - Completed request in 0.0035 seconds
+2024-12-14 00:23:16,855 - fastAPI - INFO - HP-API - local - Response status code: 200
+2024-12-14 00:23:28,793 - fastAPI - INFO - HP-API - local - Incoming request: POST http://127.0.0.1:8855/v1/users.
+2024-12-14 00:23:28,794 - fastAPI - INFO - HP-API - local - Handling function: create_user
+2024-12-14 00:23:28,807 - fastAPI - INFO - HP-API - local - Completed request in 0.0127 seconds
+2024-12-14 00:23:28,807 - fastAPI - INFO - HP-API - local - Response status code: 200
+2024-12-14 00:24:09,853 - fastAPI - INFO - HP-API - local - Incoming request: GET http://127.0.0.1:8855/docs.
+2024-12-14 00:24:09,853 - fastAPI - INFO - HP-API - local - Handling function: swagger_ui_html
+2024-12-14 00:24:09,854 - fastAPI - INFO - HP-API - local - Completed request in 0.0008 seconds
+2024-12-14 00:24:09,854 - fastAPI - INFO - HP-API - local - Response status code: 200
+2024-12-14 00:24:09,969 - fastAPI - INFO - HP-API - local - Incoming request: GET http://127.0.0.1:8855/openapi.json.
+2024-12-14 00:24:09,970 - fastAPI - INFO - HP-API - local - Handling function: openapi
+2024-12-14 00:24:09,988 - fastAPI - INFO - HP-API - local - Completed request in 0.0181 seconds
+2024-12-14 00:24:09,988 - fastAPI - INFO - HP-API - local - Response status code: 200
+2024-12-14 00:24:17,041 - fastAPI - INFO - HP-API - local - Incoming request: POST http://127.0.0.1:8855/v1/users.
+2024-12-14 00:24:17,041 - fastAPI - INFO - HP-API - local - Handling function: create_user
+2024-12-14 00:24:17,052 - fastAPI - INFO - HP-API - local - Completed request in 0.0104 seconds
+2024-12-14 00:24:17,053 - fastAPI - INFO - HP-API - local - Response status code: 200
+2024-12-14 00:28:04,959 - fastAPI - INFO - HP-API - local - Incoming request: GET http://127.0.0.1:8855/docs.
+2024-12-14 00:28:04,960 - fastAPI - INFO - HP-API - local - Handling function: swagger_ui_html
+2024-12-14 00:28:04,961 - fastAPI - INFO - HP-API - local - Completed request in 0.0008 seconds
+2024-12-14 00:28:04,961 - fastAPI - INFO - HP-API - local - Response status code: 200
+2024-12-14 00:28:05,049 - fastAPI - INFO - HP-API - local - Incoming request: GET http://127.0.0.1:8855/openapi.json.
+2024-12-14 00:28:05,049 - fastAPI - INFO - HP-API - local - Handling function: openapi
+2024-12-14 00:28:05,059 - fastAPI - INFO - HP-API - local - Completed request in 0.0091 seconds
+2024-12-14 00:28:05,059 - fastAPI - INFO - HP-API - local - Response status code: 200
+2024-12-14 00:28:09,330 - fastAPI - INFO - HP-API - local - Incoming request: GET http://127.0.0.1:8855/v1/users.
+2024-12-14 00:28:09,330 - fastAPI - INFO - HP-API - local - Handling function: get_all_users
+2024-12-14 00:28:09,335 - fastAPI - INFO - HP-API - local - Completed request in 0.0048 seconds
+2024-12-14 00:28:09,335 - fastAPI - INFO - HP-API - local - Response status code: 200
+2024-12-14 00:28:18,921 - fastAPI - INFO - HP-API - local - Incoming request: DELETE http://127.0.0.1:8855/v1/users/2b84f0aee17c91b81dfdafa88eca2db9.
+2024-12-14 00:28:18,922 - fastAPI - INFO - HP-API - local - Handling function: delete_user
+2024-12-14 00:28:18,937 - fastAPI - INFO - HP-API - local - Completed request in 0.0149 seconds
+2024-12-14 00:28:18,937 - fastAPI - INFO - HP-API - local - Response status code: 200
+2024-12-14 00:28:28,679 - fastAPI - INFO - HP-API - local - Incoming request: GET http://127.0.0.1:8855/v1/users.
+2024-12-14 00:28:28,680 - fastAPI - INFO - HP-API - local - Handling function: get_all_users
+2024-12-14 00:28:28,684 - fastAPI - INFO - HP-API - local - Completed request in 0.0039 seconds
+2024-12-14 00:28:28,684 - fastAPI - INFO - HP-API - local - Response status code: 200
+2024-12-14 00:28:38,024 - fastAPI - INFO - HP-API - local - Incoming request: DELETE http://127.0.0.1:8855/v1/users/2a0f863ca6ca5a56ba94ffe231f1328d.
+2024-12-14 00:28:38,025 - fastAPI - INFO - HP-API - local - Handling function: delete_user
+2024-12-14 00:28:38,034 - fastAPI - INFO - HP-API - local - Completed request in 0.0091 seconds
+2024-12-14 00:28:38,034 - fastAPI - INFO - HP-API - local - Response status code: 200
+2024-12-14 00:29:32,825 - fastAPI - INFO - HP-API - local - Incoming request: GET http://127.0.0.1:8855/posts/.
+2024-12-14 00:29:32,825 - fastAPI - INFO - HP-API - local - Handling function: unknown
+2024-12-14 00:29:32,826 - fastAPI - INFO - HP-API - local - Completed request in 0.0007 seconds
+2024-12-14 00:29:32,826 - fastAPI - INFO - HP-API - local - Response status code: 404
+2024-12-14 00:29:36,658 - fastAPI - INFO - HP-API - local - Incoming request: GET http://127.0.0.1:8855/docs.
+2024-12-14 00:29:36,658 - fastAPI - INFO - HP-API - local - Handling function: swagger_ui_html
+2024-12-14 00:29:36,659 - fastAPI - INFO - HP-API - local - Completed request in 0.0005 seconds
+2024-12-14 00:29:36,659 - fastAPI - INFO - HP-API - local - Response status code: 200
+2024-12-14 00:29:36,744 - fastAPI - INFO - HP-API - local - Incoming request: GET http://127.0.0.1:8855/openapi.json.
+2024-12-14 00:29:36,744 - fastAPI - INFO - HP-API - local - Handling function: openapi
+2024-12-14 00:29:36,745 - fastAPI - INFO - HP-API - local - Completed request in 0.0004 seconds
+2024-12-14 00:29:36,745 - fastAPI - INFO - HP-API - local - Response status code: 200
+2024-12-14 00:32:23,577 - fastAPI - INFO - HP-API - local - Incoming request: GET http://127.0.0.1:8855/docs.
+2024-12-14 00:32:23,578 - fastAPI - INFO - HP-API - local - Handling function: swagger_ui_html
+2024-12-14 00:32:23,578 - fastAPI - INFO - HP-API - local - Completed request in 0.0005 seconds
+2024-12-14 00:32:23,579 - fastAPI - INFO - HP-API - local - Response status code: 200
+2024-12-14 00:32:23,673 - fastAPI - INFO - HP-API - local - Incoming request: GET http://127.0.0.1:8855/openapi.json.
+2024-12-14 00:32:23,673 - fastAPI - INFO - HP-API - local - Handling function: openapi
+2024-12-14 00:32:23,695 - fastAPI - INFO - HP-API - local - Completed request in 0.0216 seconds
+2024-12-14 00:32:23,696 - fastAPI - INFO - HP-API - local - Response status code: 200
+2024-12-14 00:33:26,778 - fastAPI - INFO - HP-API - local - Incoming request: GET http://127.0.0.1:8855/v1/users.
+2024-12-14 00:33:26,779 - fastAPI - INFO - HP-API - local - Handling function: get_all_users
+2024-12-14 00:33:26,788 - fastAPI - INFO - HP-API - local - Completed request in 0.0081 seconds
+2024-12-14 00:33:26,788 - fastAPI - INFO - HP-API - local - Response status code: 200
+2024-12-14 00:33:42,940 - fastAPI - INFO - HP-API - local - Incoming request: POST http://127.0.0.1:8855/v1/users.
+2024-12-14 00:33:42,940 - fastAPI - INFO - HP-API - local - Handling function: create_user
+2024-12-14 00:33:42,957 - fastAPI - INFO - HP-API - local - Completed request in 0.0169 seconds
+2024-12-14 00:33:42,957 - fastAPI - INFO - HP-API - local - Response status code: 200
+2024-12-14 00:33:55,031 - fastAPI - INFO - HP-API - local - Incoming request: GET http://127.0.0.1:8855/v1/users.
+2024-12-14 00:33:55,031 - fastAPI - INFO - HP-API - local - Handling function: get_all_users
+2024-12-14 00:33:55,036 - fastAPI - INFO - HP-API - local - Completed request in 0.0046 seconds
+2024-12-14 00:33:55,037 - fastAPI - INFO - HP-API - local - Response status code: 200
+2024-12-14 00:34:19,060 - fastAPI - INFO - HP-API - local - Incoming request: GET http://127.0.0.1:8855/v1/users/d7766f73823be301e7efebbc455de962.
+2024-12-14 00:34:19,060 - fastAPI - INFO - HP-API - local - Handling function: get_user
+2024-12-14 00:34:19,063 - fastAPI - INFO - HP-API - local - Completed request in 0.0025 seconds
+2024-12-14 00:34:19,063 - fastAPI - INFO - HP-API - local - Response status code: 200
+2024-12-14 00:34:38,817 - fastAPI - INFO - HP-API - local - Incoming request: GET http://127.0.0.1:8855/docs.
+2024-12-14 00:34:38,818 - fastAPI - INFO - HP-API - local - Handling function: swagger_ui_html
+2024-12-14 00:34:38,821 - fastAPI - INFO - HP-API - local - Completed request in 0.0027 seconds
+2024-12-14 00:34:38,821 - fastAPI - INFO - HP-API - local - Response status code: 200
+2024-12-14 00:34:38,935 - fastAPI - INFO - HP-API - local - Incoming request: GET http://127.0.0.1:8855/openapi.json.
+2024-12-14 00:34:38,935 - fastAPI - INFO - HP-API - local - Handling function: openapi
+2024-12-14 00:34:38,945 - fastAPI - INFO - HP-API - local - Completed request in 0.0095 seconds
+2024-12-14 00:34:38,945 - fastAPI - INFO - HP-API - local - Response status code: 200
+2024-12-14 00:34:43,756 - fastAPI - INFO - HP-API - local - Incoming request: GET http://127.0.0.1:8855/v1/users/d7766f73823be301e7efebbc455de962.
+2024-12-14 00:34:43,757 - fastAPI - INFO - HP-API - local - Handling function: get_user
+2024-12-14 00:34:43,759 - fastAPI - INFO - HP-API - local - Completed request in 0.0021 seconds
+2024-12-14 00:34:43,759 - fastAPI - INFO - HP-API - local - Response status code: 200
+2024-12-14 00:43:03,930 - fastAPI - INFO - HP-API - local - Incoming request: GET http://127.0.0.1:8855/docs.
+2024-12-14 00:43:03,930 - fastAPI - INFO - HP-API - local - Handling function: swagger_ui_html
+2024-12-14 00:43:03,932 - fastAPI - INFO - HP-API - local - Completed request in 0.0014 seconds
+2024-12-14 00:43:03,932 - fastAPI - INFO - HP-API - local - Response status code: 200
+2024-12-14 00:43:04,151 - fastAPI - INFO - HP-API - local - Incoming request: GET http://127.0.0.1:8855/openapi.json.
+2024-12-14 00:43:04,152 - fastAPI - INFO - HP-API - local - Handling function: openapi
+2024-12-14 00:43:04,161 - fastAPI - INFO - HP-API - local - Completed request in 0.0091 seconds
+2024-12-14 00:43:04,162 - fastAPI - INFO - HP-API - local - Response status code: 200
+2024-12-14 00:43:12,079 - fastAPI - INFO - HP-API - local - Incoming request: GET http://127.0.0.1:8855/v1/users.
+2024-12-14 00:43:12,079 - fastAPI - INFO - HP-API - local - Handling function: get_all_users
+2024-12-14 00:43:12,086 - fastAPI - INFO - HP-API - local - Completed request in 0.0069 seconds
+2024-12-14 00:43:12,087 - fastAPI - INFO - HP-API - local - Response status code: 200
+2024-12-14 00:43:37,139 - fastAPI - INFO - HP-API - local - Incoming request: GET http://127.0.0.1:8855/v1/users/6f80c2ba4426a51bf858d48a56b7d47d.
+2024-12-14 00:43:37,140 - fastAPI - INFO - HP-API - local - Handling function: get_user
+2024-12-14 00:43:37,147 - fastAPI - INFO - HP-API - local - Completed request in 0.0071 seconds
+2024-12-14 00:43:37,148 - fastAPI - INFO - HP-API - local - Response status code: 200
+2024-12-14 00:43:54,617 - fastAPI - INFO - HP-API - local - Incoming request: GET http://127.0.0.1:8855/docs.
+2024-12-14 00:43:54,617 - fastAPI - INFO - HP-API - local - Handling function: swagger_ui_html
+2024-12-14 00:43:54,620 - fastAPI - INFO - HP-API - local - Completed request in 0.0014 seconds
+2024-12-14 00:43:54,620 - fastAPI - INFO - HP-API - local - Response status code: 200
+2024-12-14 00:43:54,816 - fastAPI - INFO - HP-API - local - Incoming request: GET http://127.0.0.1:8855/openapi.json.
+2024-12-14 00:43:54,817 - fastAPI - INFO - HP-API - local - Handling function: openapi
+2024-12-14 00:43:54,830 - fastAPI - INFO - HP-API - local - Completed request in 0.0134 seconds
+2024-12-14 00:43:54,831 - fastAPI - INFO - HP-API - local - Response status code: 200
+2024-12-14 00:44:17,974 - fastAPI - INFO - HP-API - local - Incoming request: GET http://127.0.0.1:8855/v1/users/6f80c2ba4426a51bf858d48a56b7d47d.
+2024-12-14 00:44:17,975 - fastAPI - INFO - HP-API - local - Handling function: get_user
+2024-12-14 00:44:17,978 - fastAPI - INFO - HP-API - local - Completed request in 0.0028 seconds
+2024-12-14 00:44:17,978 - fastAPI - INFO - HP-API - local - Response status code: 200
+2024-12-14 00:45:23,917 - fastAPI - INFO - HP-API - local - Incoming request: GET http://127.0.0.1:8855/docs.
+2024-12-14 00:45:23,918 - fastAPI - INFO - HP-API - local - Handling function: swagger_ui_html
+2024-12-14 00:45:23,919 - fastAPI - INFO - HP-API - local - Completed request in 0.0008 seconds
+2024-12-14 00:45:23,919 - fastAPI - INFO - HP-API - local - Response status code: 200
+2024-12-14 00:45:24,038 - fastAPI - INFO - HP-API - local - Incoming request: GET http://127.0.0.1:8855/openapi.json.
+2024-12-14 00:45:24,039 - fastAPI - INFO - HP-API - local - Handling function: openapi
+2024-12-14 00:45:24,052 - fastAPI - INFO - HP-API - local - Completed request in 0.0128 seconds
+2024-12-14 00:45:24,052 - fastAPI - INFO - HP-API - local - Response status code: 200
+2024-12-14 00:46:18,263 - fastAPI - INFO - HP-API - local - Incoming request: GET http://127.0.0.1:8855/docs.
+2024-12-14 00:46:18,264 - fastAPI - INFO - HP-API - local - Handling function: swagger_ui_html
+2024-12-14 00:46:18,265 - fastAPI - INFO - HP-API - local - Completed request in 0.0008 seconds
+2024-12-14 00:46:18,265 - fastAPI - INFO - HP-API - local - Response status code: 200
+2024-12-14 00:46:18,372 - fastAPI - INFO - HP-API - local - Incoming request: GET http://127.0.0.1:8855/openapi.json.
+2024-12-14 00:46:18,372 - fastAPI - INFO - HP-API - local - Handling function: openapi
+2024-12-14 00:46:18,387 - fastAPI - INFO - HP-API - local - Completed request in 0.0144 seconds
+2024-12-14 00:46:18,388 - fastAPI - INFO - HP-API - local - Response status code: 200
+2024-12-14 00:46:33,358 - fastAPI - INFO - HP-API - local - Incoming request: PUT http://127.0.0.1:8855/v1/users/6f80c2ba4426a51bf858d48a56b7d47d?name=yes.
+2024-12-14 00:46:33,358 - fastAPI - INFO - HP-API - local - Handling function: update_user
+2024-12-14 00:46:33,362 - fastAPI - ERROR - HP-API - local - 'dict' object has no attribute 'time_created'
+2024-12-14 00:46:33,363 - fastAPI - INFO - HP-API - local - Completed request in 0.0050 seconds
+2024-12-14 00:46:33,364 - fastAPI - INFO - HP-API - local - Response status code: 500
+2024-12-14 00:47:02,737 - fastAPI - INFO - HP-API - local - Incoming request: PUT http://127.0.0.1:8855/v1/users/6f80c2ba4426a51bf858d48a56b7d47d?name=yes.
+2024-12-14 00:47:02,738 - fastAPI - INFO - HP-API - local - Handling function: update_user
+2024-12-14 00:47:02,744 - fastAPI - ERROR - HP-API - local - 'uuid:'
+2024-12-14 00:47:02,746 - fastAPI - INFO - HP-API - local - Completed request in 0.0074 seconds
+2024-12-14 00:47:02,747 - fastAPI - INFO - HP-API - local - Response status code: 500
+2024-12-14 00:47:22,926 - fastAPI - INFO - HP-API - local - Incoming request: GET http://127.0.0.1:8855/v1/users.
+2024-12-14 00:47:22,926 - fastAPI - INFO - HP-API - local - Handling function: get_all_users
+2024-12-14 00:47:22,932 - fastAPI - INFO - HP-API - local - Completed request in 0.0061 seconds
+2024-12-14 00:47:22,933 - fastAPI - INFO - HP-API - local - Response status code: 200
+2024-12-14 00:47:35,555 - fastAPI - INFO - HP-API - local - Incoming request: PUT http://127.0.0.1:8855/v1/users/6f80c2ba4426a51bf858d48a56b7d47d?name=yes.
+2024-12-14 00:47:35,556 - fastAPI - INFO - HP-API - local - Handling function: update_user
+2024-12-14 00:47:35,560 - fastAPI - ERROR - HP-API - local - 'uuid:'
+2024-12-14 00:47:35,561 - fastAPI - INFO - HP-API - local - Completed request in 0.0052 seconds
+2024-12-14 00:47:35,562 - fastAPI - INFO - HP-API - local - Response status code: 500
+2024-12-14 00:48:35,316 - fastAPI - INFO - HP-API - local - Incoming request: GET http://127.0.0.1:8855/docs.
+2024-12-14 00:48:35,317 - fastAPI - INFO - HP-API - local - Handling function: swagger_ui_html
+2024-12-14 00:48:35,318 - fastAPI - INFO - HP-API - local - Completed request in 0.0007 seconds
+2024-12-14 00:48:35,318 - fastAPI - INFO - HP-API - local - Response status code: 200
+2024-12-14 00:48:35,461 - fastAPI - INFO - HP-API - local - Incoming request: GET http://127.0.0.1:8855/openapi.json.
+2024-12-14 00:48:35,461 - fastAPI - INFO - HP-API - local - Handling function: openapi
+2024-12-14 00:48:35,474 - fastAPI - INFO - HP-API - local - Completed request in 0.0121 seconds
+2024-12-14 00:48:35,474 - fastAPI - INFO - HP-API - local - Response status code: 200
+2024-12-14 00:48:43,074 - fastAPI - INFO - HP-API - local - Incoming request: PUT http://127.0.0.1:8855/v1/users/6f80c2ba4426a51bf858d48a56b7d47d?name=yes.
+2024-12-14 00:48:43,074 - fastAPI - INFO - HP-API - local - Handling function: update_user
+2024-12-14 00:48:43,096 - fastAPI - INFO - HP-API - local - Completed request in 0.0220 seconds
+2024-12-14 00:48:43,097 - fastAPI - INFO - HP-API - local - Response status code: 200
+2024-12-14 00:48:48,605 - fastAPI - INFO - HP-API - local - Incoming request: GET http://127.0.0.1:8855/v1/users.
+2024-12-14 00:48:48,606 - fastAPI - INFO - HP-API - local - Handling function: get_all_users
+2024-12-14 00:48:48,617 - fastAPI - INFO - HP-API - local - Completed request in 0.0067 seconds
+2024-12-14 00:48:48,618 - fastAPI - INFO - HP-API - local - Response status code: 200
+2024-12-14 00:49:54,989 - fastAPI - INFO - HP-API - local - Incoming request: PUT http://127.0.0.1:8855/v1/users/6f80c2ba4426a51bf858d48a56b7d47d?name=nouice.
+2024-12-14 00:49:54,989 - fastAPI - INFO - HP-API - local - Handling function: update_user
+2024-12-14 00:49:55,005 - fastAPI - INFO - HP-API - local - Completed request in 0.0149 seconds
+2024-12-14 00:49:55,005 - fastAPI - INFO - HP-API - local - Response status code: 200
+2024-12-14 00:58:05,146 - fastAPI - INFO - HP-API - local - Incoming request: GET http://127.0.0.1:8855/docs.
+2024-12-14 00:58:05,148 - fastAPI - INFO - HP-API - local - Handling function: swagger_ui_html
+2024-12-14 00:58:05,149 - fastAPI - INFO - HP-API - local - Incoming request: GET http://127.0.0.1:8855/docs.
+2024-12-14 00:58:05,149 - fastAPI - INFO - HP-API - local - Handling function: swagger_ui_html
+2024-12-14 00:58:05,149 - fastAPI - INFO - HP-API - local - Completed request in 0.0014 seconds
+2024-12-14 00:58:05,149 - fastAPI - INFO - HP-API - local - Response status code: 200
+2024-12-14 00:58:05,150 - fastAPI - INFO - HP-API - local - Completed request in 0.0006 seconds
+2024-12-14 00:58:05,150 - fastAPI - INFO - HP-API - local - Response status code: 200
+2024-12-14 00:58:05,384 - fastAPI - INFO - HP-API - local - Incoming request: GET http://127.0.0.1:8855/openapi.json.
+2024-12-14 00:58:05,384 - fastAPI - INFO - HP-API - local - Handling function: openapi
+2024-12-14 00:58:05,402 - fastAPI - INFO - HP-API - local - Completed request in 0.0176 seconds
+2024-12-14 00:58:05,402 - fastAPI - INFO - HP-API - local - Response status code: 200
+2024-12-14 01:02:40,520 - fastAPI - INFO - HP-API - local - Incoming request: GET http://127.0.0.1:8855/docs.
+2024-12-14 01:02:40,521 - fastAPI - INFO - HP-API - local - Handling function: swagger_ui_html
+2024-12-14 01:02:40,523 - fastAPI - INFO - HP-API - local - Completed request in 0.0010 seconds
+2024-12-14 01:02:40,523 - fastAPI - INFO - HP-API - local - Response status code: 200
+2024-12-14 01:02:40,651 - fastAPI - INFO - HP-API - local - Incoming request: GET http://127.0.0.1:8855/openapi.json.
+2024-12-14 01:02:40,652 - fastAPI - INFO - HP-API - local - Handling function: openapi
+2024-12-14 01:02:40,671 - fastAPI - INFO - HP-API - local - Completed request in 0.0186 seconds
+2024-12-14 01:02:40,672 - fastAPI - INFO - HP-API - local - Response status code: 200
+2024-12-14 01:03:17,151 - fastAPI - INFO - HP-API - local - Incoming request: GET http://127.0.0.1:8855/docs.
+2024-12-14 01:03:17,151 - fastAPI - INFO - HP-API - local - Handling function: swagger_ui_html
+2024-12-14 01:03:17,153 - fastAPI - INFO - HP-API - local - Completed request in 0.0012 seconds
+2024-12-14 01:03:17,153 - fastAPI - INFO - HP-API - local - Response status code: 200
+2024-12-14 01:03:17,264 - fastAPI - INFO - HP-API - local - Incoming request: GET http://127.0.0.1:8855/openapi.json.
+2024-12-14 01:03:17,264 - fastAPI - INFO - HP-API - local - Handling function: openapi
+2024-12-14 01:03:17,271 - fastAPI - INFO - HP-API - local - Completed request in 0.0069 seconds
+2024-12-14 01:03:17,272 - fastAPI - INFO - HP-API - local - Response status code: 200
+2024-12-14 01:07:30,906 - fastAPI - INFO - HP-API - local - Incoming request: GET http://127.0.0.1:8855/docs.
+2024-12-14 01:07:30,906 - fastAPI - INFO - HP-API - local - Handling function: swagger_ui_html
+2024-12-14 01:07:30,907 - fastAPI - INFO - HP-API - local - Completed request in 0.0010 seconds
+2024-12-14 01:07:30,908 - fastAPI - INFO - HP-API - local - Response status code: 200
+2024-12-14 01:07:31,025 - fastAPI - INFO - HP-API - local - Incoming request: GET http://127.0.0.1:8855/openapi.json.
+2024-12-14 01:07:31,025 - fastAPI - INFO - HP-API - local - Handling function: openapi
+2024-12-14 01:07:31,039 - fastAPI - INFO - HP-API - local - Completed request in 0.0134 seconds
+2024-12-14 01:07:31,039 - fastAPI - INFO - HP-API - local - Response status code: 200
+2024-12-14 01:07:39,758 - fastAPI - INFO - HP-API - local - Incoming request: POST http://127.0.0.1:8855/v1/users/{uuid}/posts.
+2024-12-14 01:07:39,758 - fastAPI - INFO - HP-API - local - Handling function: create_post
+2024-12-14 01:07:39,769 - fastAPI - ERROR - HP-API - local - 'NoneType' object is not subscriptable
+2024-12-14 01:07:39,772 - fastAPI - INFO - HP-API - local - Completed request in 0.0132 seconds
+2024-12-14 01:07:39,772 - fastAPI - INFO - HP-API - local - Response status code: 500
+2024-12-14 01:08:05,485 - fastAPI - INFO - HP-API - local - Incoming request: POST http://127.0.0.1:8855/v1/users/{uuid}/posts.
+2024-12-14 01:08:05,486 - fastAPI - INFO - HP-API - local - Handling function: create_post
+2024-12-14 01:08:05,490 - fastAPI - ERROR - HP-API - local - 'NoneType' object is not subscriptable
+2024-12-14 01:08:05,491 - fastAPI - INFO - HP-API - local - Completed request in 0.0043 seconds
+2024-12-14 01:08:05,491 - fastAPI - INFO - HP-API - local - Response status code: 500
+2024-12-14 01:08:23,724 - fastAPI - INFO - HP-API - local - Incoming request: GET http://127.0.0.1:8855/v1/users.
+2024-12-14 01:08:23,724 - fastAPI - INFO - HP-API - local - Handling function: get_all_users
+2024-12-14 01:08:23,734 - fastAPI - INFO - HP-API - local - Completed request in 0.0051 seconds
+2024-12-14 01:08:23,734 - fastAPI - INFO - HP-API - local - Response status code: 200
+2024-12-14 01:08:49,018 - fastAPI - INFO - HP-API - local - Incoming request: POST http://127.0.0.1:8855/v1/users/{uuid}/posts.
+2024-12-14 01:08:49,018 - fastAPI - INFO - HP-API - local - Handling function: create_post
+2024-12-14 01:08:49,022 - fastAPI - ERROR - HP-API - local - 'NoneType' object is not subscriptable
+2024-12-14 01:08:49,023 - fastAPI - INFO - HP-API - local - Completed request in 0.0044 seconds
+2024-12-14 01:08:49,023 - fastAPI - INFO - HP-API - local - Response status code: 500
+2024-12-14 01:09:03,276 - fastAPI - INFO - HP-API - local - Incoming request: GET http://127.0.0.1:8855/docs.
+2024-12-14 01:09:03,276 - fastAPI - INFO - HP-API - local - Handling function: swagger_ui_html
+2024-12-14 01:09:03,279 - fastAPI - INFO - HP-API - local - Completed request in 0.0023 seconds
+2024-12-14 01:09:03,279 - fastAPI - INFO - HP-API - local - Response status code: 200
+2024-12-14 01:09:03,412 - fastAPI - INFO - HP-API - local - Incoming request: GET http://127.0.0.1:8855/openapi.json.
+2024-12-14 01:09:03,414 - fastAPI - INFO - HP-API - local - Handling function: openapi
+2024-12-14 01:09:03,422 - fastAPI - INFO - HP-API - local - Completed request in 0.0077 seconds
+2024-12-14 01:09:03,422 - fastAPI - INFO - HP-API - local - Response status code: 200
+2024-12-14 01:09:15,840 - fastAPI - INFO - HP-API - local - Incoming request: GET http://127.0.0.1:8855/v1/users.
+2024-12-14 01:09:15,840 - fastAPI - INFO - HP-API - local - Handling function: get_all_users
+2024-12-14 01:09:15,846 - fastAPI - INFO - HP-API - local - Completed request in 0.0052 seconds
+2024-12-14 01:09:15,846 - fastAPI - INFO - HP-API - local - Response status code: 200
+2024-12-14 01:09:25,492 - fastAPI - INFO - HP-API - local - Incoming request: POST http://127.0.0.1:8855/v1/users/{uuid}/posts.
+2024-12-14 01:09:25,493 - fastAPI - INFO - HP-API - local - Handling function: create_post
+2024-12-14 01:09:25,498 - fastAPI - ERROR - HP-API - local - 'NoneType' object is not subscriptable
+2024-12-14 01:09:25,498 - fastAPI - INFO - HP-API - local - Completed request in 0.0052 seconds
+2024-12-14 01:09:25,499 - fastAPI - INFO - HP-API - local - Response status code: 500
+2024-12-14 01:11:16,599 - fastAPI - INFO - HP-API - local - Incoming request: GET http://127.0.0.1:8855/docs.
+2024-12-14 01:11:16,599 - fastAPI - INFO - HP-API - local - Handling function: swagger_ui_html
+2024-12-14 01:11:16,599 - fastAPI - INFO - HP-API - local - Completed request in 0.0005 seconds
+2024-12-14 01:11:16,600 - fastAPI - INFO - HP-API - local - Response status code: 200
+2024-12-14 01:11:16,716 - fastAPI - INFO - HP-API - local - Incoming request: GET http://127.0.0.1:8855/openapi.json.
+2024-12-14 01:11:16,717 - fastAPI - INFO - HP-API - local - Handling function: openapi
+2024-12-14 01:11:16,727 - fastAPI - INFO - HP-API - local - Completed request in 0.0096 seconds
+2024-12-14 01:11:16,727 - fastAPI - INFO - HP-API - local - Response status code: 200
+2024-12-14 01:11:25,309 - fastAPI - INFO - HP-API - local - Incoming request: POST http://127.0.0.1:8855/v1/users/{uuid}/posts.
+2024-12-14 01:11:25,310 - fastAPI - INFO - HP-API - local - Handling function: create_post
+2024-12-14 01:11:25,340 - fastAPI - INFO - HP-API - local - Completed request in 0.0296 seconds
+2024-12-14 01:11:25,340 - fastAPI - INFO - HP-API - local - Response status code: 200
+2024-12-14 01:11:36,489 - fastAPI - INFO - HP-API - local - Incoming request: GET http://127.0.0.1:8855/v1/users/{uuid}/posts/5dc2c7a36aec15cfdc73027deada50b2.
+2024-12-14 01:11:36,489 - fastAPI - INFO - HP-API - local - Handling function: read_post
+2024-12-14 01:11:36,494 - fastAPI - INFO - HP-API - local - Completed request in 0.0040 seconds
+2024-12-14 01:11:36,494 - fastAPI - INFO - HP-API - local - Response status code: 200
+2024-12-14 01:26:30,773 - fastAPI - INFO - HP-API - local - Incoming request: GET http://127.0.0.1:8855/docs.
+2024-12-14 01:26:30,774 - fastAPI - INFO - HP-API - local - Handling function: swagger_ui_html
+2024-12-14 01:26:30,776 - fastAPI - INFO - HP-API - local - Completed request in 0.0018 seconds
+2024-12-14 01:26:30,776 - fastAPI - INFO - HP-API - local - Response status code: 200
+2024-12-14 01:26:31,078 - fastAPI - INFO - HP-API - local - Incoming request: GET http://127.0.0.1:8855/openapi.json.
+2024-12-14 01:26:31,079 - fastAPI - INFO - HP-API - local - Handling function: openapi
+2024-12-14 01:26:31,080 - fastAPI - INFO - HP-API - local - Completed request in 0.0009 seconds
+2024-12-14 01:26:31,080 - fastAPI - INFO - HP-API - local - Response status code: 200
