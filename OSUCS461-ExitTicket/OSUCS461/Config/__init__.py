@@ -49,7 +49,7 @@ MySQL = {
 	},
 	'prod' : {
 		'host' : '0.0.0.0',
-		'port' : 3306,
+		'port' : 80,
 		"user": "root",
         "passwd": "",
  		'db' : 'osucs461'
